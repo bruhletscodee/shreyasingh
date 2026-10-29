@@ -1,0 +1,21 @@
+Column,Description
+post_id,Unique identifier for each synthetic post
+brand,Brand used in the educational prototype
+platform,Simulated source platform; not live platform data
+timestamp,Synthetic post timestamp
+post_text,Fictional social media post text
+topic_label,Assigned topic category
+sentiment_label,"Assigned sentiment: Positive, Negative, or Neutral"
+urgency_label,"Assigned urgency: Low, Medium, or High"
+likes_1h,Simulated likes during the first hour
+comments_1h,Simulated comments during the first hour
+shares_1h,Simulated shares during the first hour
+high_spread_label,"Simulated target: 1 = high spread, 0 = low spread"
+data_type,Marks rows as synthetic
+author_followers,SIMULATED. Audience size of the posting account (Reddit values represent simulated account reach). Known when the post arrives; usable as a feature.
+is_verified,"SIMULATED. 1 = verified account, 0 = not verified. Usable as a feature."
+has_media,"SIMULATED. 1 = post includes an image or video, 0 = text only. Usable as a feature."
+hashtag_count,SIMULATED. Number of hashtags in the post (0-5). Usable as a feature.
+interactions_15m,SIMULATED. Interactions (likes + comments + shares) in the first 15 minutes; always <= likes_1h + comments_1h + shares_1h. Used to derive velocity_ratio. Usable as a feature.
+virality_score,SIMULATED outcome. 0-100 virality index. virality_score >= 60 is exactly high_spread_label = 1. Target for the virality regressor; never a feature.
+virality_tier,"SIMULATED outcome. Low (<30), Moderate (30-59.9), High (60-79.9), Viral (>=80), derived from virality_score. Evaluation only; never a feature."

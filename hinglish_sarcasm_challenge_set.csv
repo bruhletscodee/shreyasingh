@@ -1,0 +1,13 @@
+text,expected_sentiment,expected_topic,expected_urgency,style
+"Bhai 4 ghante se airport pe baithe hain, koi water bhi offer nahi kar raha.",Negative,Flight Delay,High,Hinglish
+"Kya baat hai SpiceJet, 5 ghante delay aur bol rahe hain technical glitch hai. Shabash!",Negative,Flight Delay,High,Hinglish+Sarcastic
+"Mera bag baggage carousel pe 2 ghante se gayab hai, staff bol raha wait karo.",Negative,Baggage Issue,Medium,Hinglish
+"Refund ka status 3 weeks se pending dikha raha hai, customer care phone disconnect kar raha.",Negative,Refund,Medium,Hinglish
+"Super fast service! Only waited 6 hours at the boarding gate 🙃",Negative,Flight Delay,High,Sarcastic
+"Best luggage handling ever, suitcase came out in two broken pieces!",Negative,Baggage Issue,Medium,Sarcastic
+"Pilot ne itni smooth landing karayi, truly grateful to the SpiceJet crew!",Positive,Positive Experience,Low,Hinglish
+"Boarding pass download karne mein website error de rahi hai, kaise check-in karun?",Neutral,Booking/Check-in,Medium,Hinglish
+"Thanks for cancelling without informing, loved spending my anniversary night on terminal floor.",Negative,Flight Cancellation,High,Sarcastic
+"Great job leaving our bags in Delhi while we landed in Mumbai! Top tier efficiency 👍",Negative,Baggage Issue,High,Sarcastic
+"Gate change ho gaya aur koi announcement bhi nahi ki, poora terminal bhagna pada.",Negative,Flight Delay,Medium,Hinglish
+"Waah, ticket cancel hone ke baad cancellation fee bhi kaat li. Gazab logic hai!",Negative,Refund,Medium,Hinglish+Sarcastic

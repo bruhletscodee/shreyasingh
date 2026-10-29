@@ -1,0 +1,801 @@
+post_id,brand,platform,timestamp,post_text,topic_label,sentiment_label,urgency_label,likes_1h,comments_1h,shares_1h,high_spread_label,data_type,author_followers,is_verified,has_media,hashtag_count,interactions_15m,virality_score,virality_tier
+SPJ0001,SpiceJet,Reddit,2026-10-06 03:29,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,3,1,1,0,synthetic,265,0,0,1,2,23.6,Low
+SPJ0002,SpiceJet,Instagram,2026-10-11 08:12,Please clarify the expected refund process for my booking.,Refund,Negative,Medium,10,4,0,0,synthetic,4409,1,0,0,3,19.4,Low
+SPJ0003,SpiceJet,X,2026-10-09 02:21,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,11,6,1,1,synthetic,648,0,1,1,5,88.6,Viral
+SPJ0004,SpiceJet,YouTube,2026-10-01 22:01,I contacted support twice and still have no resolution.,Customer Service,Negative,Low,6,1,0,0,synthetic,13723,0,0,2,2,18.7,Low
+SPJ0005,SpiceJet,Instagram,2026-10-06 14:50,Bhai flight ka update kab milega? Gate pe koi bata hi nahi raha.,Flight Delay,Negative,Medium,7,0,0,1,synthetic,17099,0,1,0,5,79.8,High
+SPJ0006,SpiceJet,Instagram,2026-10-05 12:13,What time does boarding usually close?,General Enquiry,Neutral,Low,3,0,0,0,synthetic,2112,0,1,1,2,7.1,Low
+SPJ0007,SpiceJet,Reddit,2026-10-02 04:57,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,23,24,26,1,synthetic,1155,1,0,0,43,81.0,Viral
+SPJ0008,SpiceJet,Instagram,2026-10-16 15:31,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,0,3,0,0,synthetic,4811,0,1,1,0,33.1,Moderate
+SPJ0009,SpiceJet,YouTube,2026-10-08 10:06,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Medium,15,1,0,0,synthetic,1378,0,1,1,10,48.1,Moderate
+SPJ0010,SpiceJet,X,2026-10-11 16:50,I am still waiting for my refund after the cancellation.,Refund,Negative,Medium,8,6,0,0,synthetic,2913,0,0,1,6,59.0,Moderate
+SPJ0011,SpiceJet,Instagram,2026-10-05 05:03,"Wow, only three hours late. Truly an on-time champion 🙃",Baggage Issue,Negative,High,8,8,0,0,synthetic,8551,0,0,0,7,58.1,Moderate
+SPJ0012,SpiceJet,Instagram,2026-10-13 09:58,Where can I check the status of my SpiceJet flight?,General Enquiry,Positive,Low,15,3,0,0,synthetic,6439,0,0,1,5,45.7,Moderate
+SPJ0013,SpiceJet,X,2026-10-03 20:29,The staff helped me understand the rebooking options.,Customer Service,Negative,Medium,20,4,1,0,synthetic,3643,0,0,0,18,57.2,Moderate
+SPJ0014,SpiceJet,YouTube,2026-10-15 05:34,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,2,0,1,1,synthetic,3969,1,0,1,1,70.1,High
+SPJ0015,SpiceJet,Instagram,2026-10-16 12:12,My refund has not arrived and customer support has not replied.,Refund,Negative,High,4,1,0,0,synthetic,3949,0,1,1,2,25.6,Low
+SPJ0016,SpiceJet,X,2026-10-07 12:57,Cancellation message came at the last minute. What are my options?,Flight Cancellation,Negative,High,7,0,0,0,synthetic,1704,0,0,2,1,16.8,Low
+SPJ0017,SpiceJet,X,2026-10-05 11:06,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Low,95,17,9,0,synthetic,2279,0,0,0,5,45.9,Moderate
+SPJ0018,SpiceJet,YouTube,2026-10-17 09:11,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Medium,11,0,2,0,synthetic,4255,0,0,1,6,27.7,Low
+SPJ0019,SpiceJet,Reddit,2026-10-05 16:28,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,8,3,3,0,synthetic,663,0,1,0,2,16.5,Low
+SPJ0020,SpiceJet,Instagram,2026-10-04 17:49,The website is showing an error when I enter my booking details.,Booking/Check-in,Neutral,Low,3,2,0,0,synthetic,473,0,0,1,4,33.3,Moderate
+SPJ0021,SpiceJet,Instagram,2026-10-08 03:36,Nobody is responding to my complaint about the flight.,Customer Service,Negative,Low,2,2,2,0,synthetic,1635,0,1,1,4,14.9,Low
+SPJ0022,SpiceJet,YouTube,2026-10-21 07:08,My suitcase was damaged during the journey. How do I report it?,Baggage Issue,Negative,Medium,102,19,27,1,synthetic,11065,0,0,3,133,93.5,Viral
+SPJ0023,SpiceJet,Instagram,2026-10-10 17:10,How can I get assistance for a passenger who needs extra support?,General Enquiry,Neutral,Medium,7,8,0,0,synthetic,2294,0,0,2,6,51.3,Moderate
+SPJ0024,SpiceJet,Reddit,2026-10-06 12:23,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,50,32,27,1,synthetic,1447,0,1,1,25,96.3,Viral
+SPJ0025,SpiceJet,X,2026-10-11 18:54,Bhai flight ka update kab milega? Gate pe koi bata hi nahi raha.,Positive Experience,Positive,Low,8,2,0,0,synthetic,9662,0,0,1,5,21.6,Low
+SPJ0026,SpiceJet,Instagram,2026-10-08 07:35,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,6,1,2,0,synthetic,39333,0,0,0,3,36.5,Moderate
+SPJ0027,SpiceJet,YouTube,2026-10-14 22:55,Bhai flight ka update kab milega? Gate pe koi bata hi nahi raha.,Refund,Negative,Low,4,2,0,0,synthetic,744,0,0,0,2,19.5,Low
+SPJ0028,SpiceJet,Instagram,2026-10-10 05:10,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Medium,2,0,1,0,synthetic,20366,0,1,0,1,21.7,Low
+SPJ0029,SpiceJet,X,2026-10-13 08:36,The departure time keeps changing in the app.,Flight Delay,Negative,High,3,0,0,0,synthetic,727,0,0,0,1,9.1,Low
+SPJ0030,SpiceJet,Instagram,2026-10-10 03:54,The ground staff were patient and helpful today.,Customer Service,Positive,Low,9,2,2,0,synthetic,4027,0,0,0,8,53.7,Moderate
+SPJ0031,SpiceJet,Reddit,2026-10-11 02:46,The ground staff were patient and helpful today.,Customer Service,Negative,Low,2,0,1,1,synthetic,353,0,0,0,1,60.2,High
+SPJ0032,SpiceJet,YouTube,2026-10-10 09:21,What is the baggage allowance for this route?,General Enquiry,Positive,Low,5,4,0,0,synthetic,12908,0,1,1,2,9.8,Low
+SPJ0033,SpiceJet,Instagram,2026-10-09 06:32,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,Medium,6,2,0,0,synthetic,10008,0,0,0,5,45.2,Moderate
+SPJ0034,SpiceJet,Reddit,2026-10-21 05:44,My checked-in bag has not arrived at the carousel.,Baggage Issue,Negative,Low,56,33,10,1,synthetic,8563,0,1,3,45,98.7,Viral
+SPJ0035,SpiceJet,Reddit,2026-10-06 13:57,My refund has not arrived and customer support has not replied.,Refund,Negative,High,3,3,1,0,synthetic,233,0,1,1,2,22.3,Low
+SPJ0036,SpiceJet,YouTube,2026-10-17 21:55,The departure time keeps changing in the app.,Flight Delay,Negative,High,7,0,0,0,synthetic,5137,0,0,1,3,3.8,Low
+SPJ0037,SpiceJet,Reddit,2026-10-15 21:48,Amazing experience 🙃 missed my connection because of the delay.,Flight Delay,Negative,Low,21,22,19,1,synthetic,868,0,0,0,42,80.0,Viral
+SPJ0038,SpiceJet,X,2026-10-12 02:05,Please clarify the expected refund process for my booking.,Refund,Negative,Medium,4,1,0,0,synthetic,2116,0,1,0,0,10.0,Low
+SPJ0039,SpiceJet,YouTube,2026-10-07 16:01,Can someone explain the process after a flight cancellation?,Flight Cancellation,Negative,High,0,11,0,0,synthetic,4017,0,0,0,6,48.6,Moderate
+SPJ0040,SpiceJet,YouTube,2026-10-11 03:50,I contacted support twice and still have no resolution.,Customer Service,Negative,Low,4,3,0,0,synthetic,6699,0,0,1,6,40.5,Moderate
+SPJ0041,SpiceJet,Instagram,2026-10-18 20:11,I am still waiting for my refund after the cancellation.,Refund,Negative,Medium,9,2,1,1,synthetic,9389,1,1,2,5,82.3,Viral
+SPJ0042,SpiceJet,Reddit,2026-10-04 19:42,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,5,4,0,1,synthetic,746,0,0,1,5,68.2,High
+SPJ0043,SpiceJet,YouTube,2026-10-13 07:25,The ground staff were patient and helpful today.,Customer Service,Negative,Low,7,0,0,0,synthetic,637,0,1,2,4,4.3,Low
+SPJ0044,SpiceJet,YouTube,2026-10-17 01:29,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,High,3,0,2,0,synthetic,14675,0,0,0,3,43.9,Moderate
+SPJ0045,SpiceJet,Instagram,2026-10-14 07:30,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Low,1,1,2,0,synthetic,7184,0,0,1,2,2.6,Low
+SPJ0046,SpiceJet,X,2026-10-04 00:39,Landed safely and the staff were courteous.,Positive Experience,Positive,Medium,6,0,4,0,synthetic,10760,0,0,1,1,9.5,Low
+SPJ0047,SpiceJet,Instagram,2026-10-11 16:25,"My bag was delivered safely, thank you to the ground team.",Baggage Issue,Negative,Medium,10,0,6,1,synthetic,144574,0,0,1,7,68.9,High
+SPJ0048,SpiceJet,Reddit,2026-10-04 20:14,My SpiceJet flight was cancelled and I need help with the next steps.,Flight Cancellation,Negative,High,102,26,19,1,synthetic,576,0,1,1,44,75.9,High
+SPJ0049,SpiceJet,Instagram,2026-10-20 11:59,I contacted support twice and still have no resolution.,Customer Service,Negative,Low,1,0,0,0,synthetic,108561,0,1,2,1,55.7,Moderate
+SPJ0050,SpiceJet,X,2026-10-08 09:16,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Low,3,0,0,0,synthetic,309417,0,0,1,2,34.2,Moderate
+SPJ0051,SpiceJet,Instagram,2026-10-09 20:29,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,High,10,1,0,1,synthetic,66228,0,0,0,8,64.0,High
+SPJ0052,SpiceJet,Instagram,2026-10-19 00:10,The departure time keeps changing in the app.,Flight Delay,Negative,High,1,1,0,0,synthetic,9914,0,0,0,1,24.2,Low
+SPJ0053,SpiceJet,X,2026-10-09 23:11,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,4,2,0,0,synthetic,1591,0,1,0,3,17.7,Low
+SPJ0054,SpiceJet,X,2026-10-05 01:44,The staff helped me understand the rebooking options.,Customer Service,Negative,Low,10,2,0,0,synthetic,15728,0,1,0,5,40.7,Moderate
+SPJ0055,SpiceJet,Instagram,2026-10-19 18:04,I contacted support twice and still have no resolution.,Customer Service,Negative,Low,4,0,0,0,synthetic,1715,0,0,1,1,23.4,Low
+SPJ0056,SpiceJet,YouTube,2026-10-14 14:35,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,1,4,0,0,synthetic,1936,0,0,1,1,4.9,Low
+SPJ0057,SpiceJet,Reddit,2026-10-13 16:52,I am still waiting for my refund after the cancellation.,Refund,Negative,Low,9,0,0,0,synthetic,531,0,1,0,2,11.7,Low
+SPJ0058,SpiceJet,X,2026-10-02 14:05,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Negative,Medium,3,5,0,0,synthetic,5892,0,1,1,5,20.1,Low
+SPJ0059,SpiceJet,Instagram,2026-10-10 10:22,The departure time keeps changing in the app.,Flight Delay,Negative,Medium,10,2,0,0,synthetic,18743,0,0,3,6,36.2,Moderate
+SPJ0060,SpiceJet,YouTube,2026-10-10 15:29,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Medium,8,3,0,0,synthetic,926,0,0,2,4,27.9,Low
+SPJ0061,SpiceJet,Reddit,2026-10-06 12:07,The staff helped me understand the rebooking options.,Customer Service,Negative,Low,28,15,4,0,synthetic,203,0,0,0,25,46.9,Moderate
+SPJ0062,SpiceJet,Reddit,2026-10-12 20:29,How can I check the status of my ticket refund?,Refund,Negative,Low,8,3,1,0,synthetic,198,0,0,0,4,13.9,Low
+SPJ0063,SpiceJet,Reddit,2026-10-06 03:30,Can I change the passenger name after booking?,Booking/Check-in,Neutral,Low,3,1,0,0,synthetic,208,0,1,1,2,6.4,Low
+SPJ0064,SpiceJet,YouTube,2026-10-10 21:21,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,2,6,2,0,synthetic,276,0,0,1,1,7.3,Low
+SPJ0065,SpiceJet,Instagram,2026-10-17 19:55,Can I change the passenger name after booking?,Booking/Check-in,Neutral,Low,6,2,2,0,synthetic,895,0,1,0,4,17.4,Low
+SPJ0066,SpiceJet,X,2026-10-16 10:34,Can I change the passenger name after booking?,Booking/Check-in,Neutral,Low,14,2,0,0,synthetic,23766,0,0,0,13,49.2,Moderate
+SPJ0067,SpiceJet,X,2026-10-06 20:51,Can I change the passenger name after booking?,Booking/Check-in,Neutral,Medium,2,4,5,0,synthetic,1753,0,0,1,2,19.0,Low
+SPJ0068,SpiceJet,Reddit,2026-10-05 08:35,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,Medium,5,3,6,0,synthetic,1133,0,1,0,4,31.8,Moderate
+SPJ0069,SpiceJet,Instagram,2026-10-01 02:53,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,High,12,0,2,1,synthetic,1317,0,0,4,10,68.6,High
+SPJ0070,SpiceJet,Instagram,2026-10-08 06:09,Please clarify the expected refund process for my booking.,Refund,Negative,Low,96,30,22,1,synthetic,8949,0,1,2,53,96.1,Viral
+SPJ0071,SpiceJet,Reddit,2026-10-01 09:48,My SpiceJet flight was cancelled and I need help with the next steps.,Flight Cancellation,Negative,Medium,4,2,0,0,synthetic,71,0,0,0,5,21.2,Low
+SPJ0072,SpiceJet,Instagram,2026-10-03 16:37,My suitcase was damaged during the journey. How do I report it?,Baggage Issue,Negative,Medium,5,2,0,0,synthetic,1204,0,0,1,0,3.9,Low
+SPJ0073,SpiceJet,X,2026-10-21 13:06,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Low,3,1,0,0,synthetic,89685,0,0,3,1,39.5,Moderate
+SPJ0074,SpiceJet,Instagram,2026-10-18 23:15,Cancellation message came at the last minute. What are my options?,Flight Cancellation,Negative,Medium,1,1,2,1,synthetic,3163,0,0,0,1,71.0,High
+SPJ0075,SpiceJet,Reddit,2026-10-12 18:09,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Low,1,3,0,0,synthetic,3732,0,1,0,0,13.2,Low
+SPJ0076,SpiceJet,X,2026-10-17 06:22,Can someone explain the process after a flight cancellation?,Flight Cancellation,Negative,Medium,8,3,1,0,synthetic,7465,0,0,1,4,45.5,Moderate
+SPJ0077,SpiceJet,Instagram,2026-10-11 06:28,My SpiceJet flight was cancelled and I need help with the next steps.,Flight Cancellation,Negative,Medium,9,2,1,0,synthetic,2559,0,0,0,3,8.0,Low
+SPJ0078,SpiceJet,Instagram,2026-10-13 15:03,I contacted support twice and still have no resolution.,Customer Service,Negative,Low,13,2,0,0,synthetic,1284,0,1,1,3,5.1,Low
+SPJ0079,SpiceJet,Reddit,2026-10-20 06:36,Where can I find my boarding pass?,Booking/Check-in,Neutral,Low,7,2,0,0,synthetic,4700,0,0,1,3,20.6,Low
+SPJ0080,SpiceJet,YouTube,2026-10-02 15:37,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Low,77,24,20,1,synthetic,3495,0,0,0,77,95.7,Viral
+SPJ0081,SpiceJet,YouTube,2026-10-08 09:15,I contacted support twice and still have no resolution.,Customer Service,Negative,Low,3,0,0,0,synthetic,16460,0,0,1,0,24.9,Low
+SPJ0082,SpiceJet,Reddit,2026-10-03 11:59,"My bag was delivered safely, thank you to the ground team.",Baggage Issue,Negative,Medium,96,22,9,1,synthetic,658,0,0,1,105,93.3,Viral
+SPJ0083,SpiceJet,X,2026-10-17 16:40,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,2,6,0,0,synthetic,4309,0,1,0,1,13.0,Low
+SPJ0084,SpiceJet,YouTube,2026-10-18 06:34,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,10,0,1,1,synthetic,8497,0,1,2,7,63.5,High
+SPJ0085,SpiceJet,Instagram,2026-10-16 03:47,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,High,59,10,14,1,synthetic,11854,0,0,0,35,92.4,Viral
+SPJ0086,SpiceJet,Instagram,2026-10-13 18:54,Amazing experience 🙃 missed my connection because of the delay.,Flight Delay,Negative,Medium,4,3,0,0,synthetic,575,0,0,0,2,11.2,Low
+SPJ0087,SpiceJet,Instagram,2026-10-11 00:27,Crew was kind and helped an elderly passenger. That meant a lot.,Customer Service,Neutral,Low,4,0,0,1,synthetic,2828,0,0,1,2,65.0,High
+SPJ0088,SpiceJet,Instagram,2026-10-01 11:50,I am still waiting for my refund after the cancellation.,Refund,Negative,High,8,4,1,1,synthetic,5400,0,0,2,8,75.4,High
+SPJ0089,SpiceJet,Instagram,2026-10-17 06:24,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,5,2,0,0,synthetic,972,0,1,1,0,6.4,Low
+SPJ0090,SpiceJet,Reddit,2026-10-19 18:34,I am still waiting for my refund after the cancellation.,Refund,Negative,High,93,25,18,1,synthetic,4533,0,0,0,19,72.1,High
+SPJ0091,SpiceJet,Instagram,2026-10-21 06:45,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,High,6,1,2,0,synthetic,7125,0,0,0,2,4.5,Low
+SPJ0092,SpiceJet,X,2026-10-08 04:17,The staff helped me understand the rebooking options.,Customer Service,Negative,Low,3,3,1,0,synthetic,266,0,1,1,4,14.4,Low
+SPJ0093,SpiceJet,Instagram,2026-10-05 05:06,I am still waiting for my refund after the cancellation.,Refund,Negative,Medium,16,2,0,0,synthetic,261,0,0,2,11,10.7,Low
+SPJ0094,SpiceJet,Instagram,2026-10-14 17:36,My suitcase was damaged during the journey. How do I report it?,Baggage Issue,Negative,Medium,63,41,29,1,synthetic,1205,0,0,1,54,86.7,Viral
+SPJ0095,SpiceJet,Reddit,2026-10-01 08:49,My checked-in bag has not arrived at the carousel.,Baggage Issue,Negative,High,5,2,2,0,synthetic,934,0,1,0,7,42.7,Moderate
+SPJ0096,SpiceJet,X,2026-10-02 06:22,Where can I find my boarding pass?,Booking/Check-in,Neutral,Low,4,4,1,1,synthetic,147877,0,1,1,5,84.2,Viral
+SPJ0097,SpiceJet,Instagram,2026-10-18 06:00,My checked-in bag has not arrived at the carousel.,Baggage Issue,Negative,Low,17,2,0,1,synthetic,4174,0,1,0,12,64.2,High
+SPJ0098,SpiceJet,Instagram,2026-10-21 02:14,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,9,3,0,0,synthetic,4470,0,0,1,5,23.8,Low
+SPJ0099,SpiceJet,Instagram,2026-10-09 11:24,The departure time keeps changing in the app.,Flight Delay,Negative,Low,10,1,0,0,synthetic,728,0,0,0,5,19.8,Low
+SPJ0100,SpiceJet,YouTube,2026-10-11 15:56,How can I get assistance for a passenger who needs extra support?,General Enquiry,Positive,Low,6,0,0,0,synthetic,469,0,0,0,1,29.3,Low
+SPJ0101,SpiceJet,YouTube,2026-10-12 10:22,Several passengers are posting that their flight was cancelled with very little notice.,General Enquiry,Neutral,Low,7,0,0,0,synthetic,133,0,0,0,4,5.8,Low
+SPJ0102,SpiceJet,Instagram,2026-10-03 21:47,The staff helped me understand the rebooking options.,Customer Service,Negative,Low,0,6,0,0,synthetic,3040,0,0,1,5,4.3,Low
+SPJ0103,SpiceJet,Instagram,2026-10-05 16:07,Our flight was cancelled and the queue for assistance is very long.,Flight Cancellation,Negative,High,4,1,1,0,synthetic,11703,0,1,1,2,5.6,Low
+SPJ0104,SpiceJet,YouTube,2026-10-07 06:24,Where can I check the status of my SpiceJet flight?,General Enquiry,Neutral,Low,5,1,2,1,synthetic,2728,0,1,0,5,81.5,Viral
+SPJ0105,SpiceJet,X,2026-10-18 16:15,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,48,23,4,0,synthetic,27407,0,0,0,33,50.4,Moderate
+SPJ0106,SpiceJet,Reddit,2026-10-10 04:48,The staff helped me understand the rebooking options.,Customer Service,Negative,Low,44,42,31,1,synthetic,2337,0,0,1,19,89.8,Viral
+SPJ0107,SpiceJet,YouTube,2026-10-16 03:29,How can I check the status of my ticket refund?,Refund,Negative,Medium,1,0,0,0,synthetic,1897,0,0,0,0,2.2,Low
+SPJ0108,SpiceJet,Instagram,2026-10-05 02:00,Several passengers are posting that their flight was cancelled with very little notice.,Flight Cancellation,Negative,High,5,11,0,0,synthetic,6461,1,0,0,2,16.6,Low
+SPJ0109,SpiceJet,Instagram,2026-10-21 00:29,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Low,1,0,0,0,synthetic,6200,0,1,0,0,2.2,Low
+SPJ0110,SpiceJet,Instagram,2026-10-19 13:15,How can I get assistance for a passenger who needs extra support?,General Enquiry,Neutral,Low,6,3,0,0,synthetic,15441,0,0,0,4,49.0,Moderate
+SPJ0111,SpiceJet,Reddit,2026-10-10 23:31,My refund has not arrived and customer support has not replied.,Refund,Negative,Low,7,1,0,0,synthetic,262,0,0,0,2,2.5,Low
+SPJ0112,SpiceJet,X,2026-10-05 17:41,Cancellation message came at the last minute. What are my options?,Flight Cancellation,Negative,High,9,0,0,0,synthetic,168,0,0,2,3,43.5,Moderate
+SPJ0113,SpiceJet,X,2026-10-21 12:11,"My bag was delivered safely, thank you to the ground team.",Baggage Issue,Negative,Medium,4,3,2,0,synthetic,4664,0,0,1,1,4.8,Low
+SPJ0114,SpiceJet,X,2026-10-17 23:17,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Low,0,0,0,0,synthetic,1709,0,1,0,0,2.4,Low
+SPJ0115,SpiceJet,X,2026-10-11 17:28,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Low,8,1,0,1,synthetic,8584,0,1,1,3,71.4,High
+SPJ0116,SpiceJet,X,2026-10-06 14:50,Several passengers are posting that their flight was cancelled with very little notice.,Positive Experience,Positive,Low,3,0,2,1,synthetic,88834,0,0,3,3,68.7,High
+SPJ0117,SpiceJet,Instagram,2026-10-14 01:11,Nobody is responding to my complaint about the flight.,Customer Service,Negative,Low,5,3,2,0,synthetic,689,0,0,1,4,5.5,Low
+SPJ0118,SpiceJet,Instagram,2026-10-08 18:39,The staff helped me understand the rebooking options.,Customer Service,Negative,Low,102,35,25,1,synthetic,20364,0,0,1,117,99.1,Viral
+SPJ0119,SpiceJet,Instagram,2026-10-15 03:45,How can I check the status of my ticket refund?,Refund,Negative,Low,2,7,1,0,synthetic,11682,0,0,0,4,41.9,Moderate
+SPJ0120,SpiceJet,YouTube,2026-10-18 11:33,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Medium,13,2,0,0,synthetic,3770,0,0,0,10,17.8,Low
+SPJ0121,SpiceJet,Instagram,2026-10-11 06:50,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Low,5,1,0,0,synthetic,14828,0,0,1,4,44.6,Moderate
+SPJ0122,SpiceJet,X,2026-10-02 00:16,I contacted support twice and still have no resolution.,Customer Service,Negative,Low,4,1,3,1,synthetic,4731,0,0,1,7,67.7,High
+SPJ0123,SpiceJet,Reddit,2026-10-12 19:38,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,11,0,3,1,synthetic,693,0,1,2,11,75.7,High
+SPJ0124,SpiceJet,YouTube,2026-10-19 00:45,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,High,6,0,0,0,synthetic,8382,0,0,1,3,6.2,Low
+SPJ0125,SpiceJet,Instagram,2026-10-05 16:32,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Medium,6,6,0,0,synthetic,8554,0,1,2,7,57.8,Moderate
+SPJ0126,SpiceJet,Instagram,2026-10-21 03:31,Please clarify the expected refund process for my booking.,Refund,Negative,Medium,5,0,0,0,synthetic,21588,0,0,1,4,12.4,Low
+SPJ0127,SpiceJet,Instagram,2026-10-08 14:37,My checked-in bag has not arrived at the carousel.,Baggage Issue,Positive,Low,2,6,3,0,synthetic,4240,0,0,0,3,57.5,Moderate
+SPJ0128,SpiceJet,X,2026-10-15 08:47,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,7,4,0,0,synthetic,37509,0,1,0,4,41.2,Moderate
+SPJ0129,SpiceJet,YouTube,2026-10-15 17:48,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Low,5,0,1,0,synthetic,1351,0,0,1,1,5.4,Low
+SPJ0130,SpiceJet,Reddit,2026-10-04 19:46,Where can I find my boarding pass?,Booking/Check-in,Neutral,Low,1,2,3,0,synthetic,183,0,0,0,2,2.4,Low
+SPJ0131,SpiceJet,Instagram,2026-10-01 19:39,The departure time keeps changing in the app.,Flight Delay,Negative,Low,3,5,0,0,synthetic,189,0,1,1,2,20.7,Low
+SPJ0132,SpiceJet,Instagram,2026-10-20 22:10,How can I get assistance for a passenger who needs extra support?,General Enquiry,Neutral,Low,8,1,2,0,synthetic,690,0,1,0,5,34.6,Moderate
+SPJ0133,SpiceJet,YouTube,2026-10-15 17:00,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Low,7,1,1,0,synthetic,6181,0,1,0,1,37.5,Moderate
+SPJ0134,SpiceJet,Reddit,2026-10-14 06:10,"My bag was delivered safely, thank you to the ground team.",Baggage Issue,Negative,High,55,32,27,1,synthetic,234,0,0,2,95,91.0,Viral
+SPJ0135,SpiceJet,Reddit,2026-10-07 09:06,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Low,3,11,2,0,synthetic,425,0,0,0,9,35.7,Moderate
+SPJ0136,SpiceJet,Instagram,2026-10-03 06:28,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,0,13,1,0,synthetic,58069,0,1,1,6,21.0,Low
+SPJ0137,SpiceJet,X,2026-10-06 17:00,What time does boarding usually close?,General Enquiry,Neutral,Low,2,1,2,0,synthetic,12825,0,1,0,3,30.8,Moderate
+SPJ0138,SpiceJet,Instagram,2026-10-12 12:03,I am still waiting for my refund after the cancellation.,Refund,Negative,Medium,2,2,0,0,synthetic,37548,1,1,2,2,41.7,Moderate
+SPJ0139,SpiceJet,X,2026-10-15 13:31,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,1,0,1,0,synthetic,1011,0,0,0,1,39.2,Moderate
+SPJ0140,SpiceJet,Instagram,2026-10-07 16:47,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,11,2,0,1,synthetic,236,0,1,0,8,74.1,High
+SPJ0141,SpiceJet,Instagram,2026-10-05 12:19,My refund has not arrived and customer support has not replied.,Refund,Negative,Medium,67,37,8,1,synthetic,57521,0,0,5,59,95.9,Viral
+SPJ0142,SpiceJet,X,2026-10-06 05:45,Bhai flight ka update kab milega? Gate pe koi bata hi nahi raha.,Refund,Negative,Medium,8,7,0,0,synthetic,562,0,0,0,5,22.9,Low
+SPJ0143,SpiceJet,Instagram,2026-10-21 04:41,Amazing experience 🙃 missed my connection because of the delay.,General Enquiry,Neutral,Medium,4,0,0,0,synthetic,3585,0,0,0,1,4.0,Low
+SPJ0144,SpiceJet,YouTube,2026-10-14 05:47,Can I change the passenger name after booking?,Booking/Check-in,Neutral,Medium,2,0,0,0,synthetic,2693,0,1,0,1,2.0,Low
+SPJ0145,SpiceJet,YouTube,2026-10-21 19:18,My refund has not arrived and customer support has not replied.,Refund,Negative,Low,4,5,5,0,synthetic,537,0,1,0,1,44.4,Moderate
+SPJ0146,SpiceJet,Instagram,2026-10-01 03:09,Can someone explain the process after a flight cancellation?,Flight Cancellation,Negative,Medium,9,4,1,0,synthetic,27013,0,0,2,8,54.2,Moderate
+SPJ0147,SpiceJet,Reddit,2026-10-10 14:52,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,Low,9,2,0,1,synthetic,15121,0,0,2,7,76.1,High
+SPJ0148,SpiceJet,X,2026-10-10 14:31,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Low,13,3,0,0,synthetic,8528,0,1,0,1,25.0,Low
+SPJ0149,SpiceJet,X,2026-10-09 10:18,I am still waiting for my refund after the cancellation.,Refund,Negative,Medium,8,4,3,0,synthetic,3822,0,1,1,6,53.5,Moderate
+SPJ0150,SpiceJet,Instagram,2026-10-09 05:21,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Low,1,1,0,0,synthetic,4119,0,0,0,1,11.0,Low
+SPJ0151,SpiceJet,YouTube,2026-10-02 15:50,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,2,6,1,0,synthetic,438,0,0,1,2,7.9,Low
+SPJ0152,SpiceJet,Instagram,2026-10-01 16:12,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,2,1,1,0,synthetic,2272,0,0,0,0,5.9,Low
+SPJ0153,SpiceJet,Instagram,2026-10-17 08:13,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,High,3,1,1,0,synthetic,2735,0,0,1,3,21.1,Low
+SPJ0154,SpiceJet,Instagram,2026-10-10 06:01,Can I change the passenger name after booking?,Booking/Check-in,Neutral,Low,2,2,0,0,synthetic,974,0,1,0,1,7.8,Low
+SPJ0155,SpiceJet,X,2026-10-04 10:00,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Low,4,3,0,0,synthetic,12868,0,0,1,5,6.1,Low
+SPJ0156,SpiceJet,X,2026-10-08 07:09,The staff helped me understand the rebooking options.,Customer Service,Negative,Low,0,4,0,1,synthetic,1241,0,1,2,2,67.3,High
+SPJ0157,SpiceJet,Reddit,2026-10-20 14:15,My SpiceJet flight was cancelled and I need help with the next steps.,Flight Cancellation,Negative,Medium,11,1,0,0,synthetic,424,0,0,3,10,19.3,Low
+SPJ0158,SpiceJet,YouTube,2026-10-10 19:43,The ground staff were patient and helpful today.,Customer Service,Negative,Low,3,5,1,0,synthetic,88,0,0,0,1,21.8,Low
+SPJ0159,SpiceJet,YouTube,2026-10-21 19:15,I contacted support twice and still have no resolution.,Customer Service,Negative,Medium,2,1,0,0,synthetic,3963,0,0,0,2,49.5,Moderate
+SPJ0160,SpiceJet,YouTube,2026-10-04 09:23,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Low,5,6,3,0,synthetic,5566,0,0,1,5,5.0,Low
+SPJ0161,SpiceJet,YouTube,2026-10-03 13:41,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Low,6,4,5,0,synthetic,4707,0,0,1,10,57.1,Moderate
+SPJ0162,SpiceJet,YouTube,2026-10-12 20:09,"Wow, only three hours late. Truly an on-time champion 🙃",General Enquiry,Neutral,Low,1,1,0,0,synthetic,112422,0,0,1,1,11.3,Low
+SPJ0163,SpiceJet,Instagram,2026-10-15 08:14,My SpiceJet flight was cancelled and I need help with the next steps.,Flight Cancellation,Negative,High,3,0,0,0,synthetic,11584,0,0,1,2,7.6,Low
+SPJ0164,SpiceJet,Instagram,2026-10-21 14:34,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,7,3,0,0,synthetic,860,0,0,0,6,11.1,Low
+SPJ0165,SpiceJet,X,2026-10-10 18:51,Bhai flight ka update kab milega? Gate pe koi bata hi nahi raha.,Booking/Check-in,Neutral,Low,2,1,1,0,synthetic,157806,0,0,0,0,30.2,Moderate
+SPJ0166,SpiceJet,YouTube,2026-10-05 04:53,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,High,10,3,3,0,synthetic,559,0,1,0,1,33.8,Moderate
+SPJ0167,SpiceJet,X,2026-10-12 08:44,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Low,9,2,0,0,synthetic,11837,0,0,0,3,58.0,Moderate
+SPJ0168,SpiceJet,Instagram,2026-10-07 10:42,Good experience with the crew on today's flight.,Positive Experience,Positive,Low,2,6,3,0,synthetic,8828,0,0,1,6,35.5,Moderate
+SPJ0169,SpiceJet,YouTube,2026-10-04 18:30,My suitcase was damaged during the journey. How do I report it?,Baggage Issue,Negative,Medium,3,4,0,0,synthetic,591,0,0,1,4,6.7,Low
+SPJ0170,SpiceJet,Instagram,2026-10-02 20:33,What is the baggage allowance for this route?,General Enquiry,Neutral,Medium,4,1,4,1,synthetic,48664,0,1,0,5,64.5,High
+SPJ0171,SpiceJet,Instagram,2026-10-16 04:39,Can someone explain the process after a flight cancellation?,Flight Cancellation,Negative,Medium,70,19,18,1,synthetic,11554,0,1,0,37,84.6,Viral
+SPJ0172,SpiceJet,Instagram,2026-10-14 11:57,I am still waiting for my refund after the cancellation.,Refund,Negative,Medium,64,35,14,1,synthetic,15580,0,0,1,50,92.7,Viral
+SPJ0173,SpiceJet,Instagram,2026-10-04 11:58,Cancellation message came at the last minute. What are my options?,Flight Cancellation,Negative,Medium,0,0,0,0,synthetic,1243,0,0,0,0,2.0,Low
+SPJ0174,SpiceJet,X,2026-10-12 17:40,What time does boarding usually close?,General Enquiry,Neutral,Low,5,8,1,0,synthetic,24075,1,1,2,2,22.0,Low
+SPJ0175,SpiceJet,Instagram,2026-10-19 14:11,The departure time keeps changing in the app.,Flight Delay,Negative,Low,4,1,0,0,synthetic,962,0,0,0,3,10.2,Low
+SPJ0176,SpiceJet,Reddit,2026-10-18 04:18,The departure time keeps changing in the app.,Flight Delay,Negative,Medium,3,3,1,0,synthetic,67,0,0,0,3,2.9,Low
+SPJ0177,SpiceJet,YouTube,2026-10-10 12:48,My refund has not arrived and customer support has not replied.,Refund,Negative,Medium,7,0,3,0,synthetic,14291,0,0,1,7,56.1,Moderate
+SPJ0178,SpiceJet,YouTube,2026-10-02 04:52,What time does boarding usually close?,General Enquiry,Neutral,Low,69,11,31,1,synthetic,2477,0,0,1,31,85.5,Viral
+SPJ0179,SpiceJet,YouTube,2026-10-14 07:58,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,3,0,0,0,synthetic,2118,0,0,3,1,6.3,Low
+SPJ0180,SpiceJet,Instagram,2026-10-11 20:10,The staff helped me understand the rebooking options.,Customer Service,Negative,Medium,67,18,23,0,synthetic,45045,0,0,0,67,58.4,Moderate
+SPJ0181,SpiceJet,X,2026-10-20 08:34,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,31,25,21,1,synthetic,42844,0,1,1,42,88.3,Viral
+SPJ0182,SpiceJet,X,2026-10-12 14:52,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,4,3,0,0,synthetic,9541,1,0,0,1,46.3,Moderate
+SPJ0183,SpiceJet,Reddit,2026-10-16 11:55,Please clarify the expected refund process for my booking.,Refund,Negative,Low,4,3,0,0,synthetic,3482,0,0,0,6,26.1,Low
+SPJ0184,SpiceJet,YouTube,2026-10-12 02:19,"My bag was delivered safely, thank you to the ground team.",Baggage Issue,Negative,Low,9,0,0,0,synthetic,730,0,0,0,5,3.5,Low
+SPJ0185,SpiceJet,Instagram,2026-10-12 08:35,Landed safely and the staff were courteous.,Positive Experience,Positive,Medium,10,3,0,0,synthetic,8950,0,0,3,1,20.4,Low
+SPJ0186,SpiceJet,X,2026-10-07 15:59,I contacted support twice and still have no resolution.,Customer Service,Negative,Low,5,2,1,0,synthetic,18448,0,0,2,4,41.3,Moderate
+SPJ0187,SpiceJet,Instagram,2026-10-09 10:56,"My bag was delivered safely, thank you to the ground team.",Baggage Issue,Negative,Medium,5,2,0,0,synthetic,8979,0,0,0,1,40.8,Moderate
+SPJ0188,SpiceJet,Instagram,2026-10-07 05:08,Amazing experience 🙃 missed my connection because of the delay.,Flight Delay,Negative,Medium,9,5,0,0,synthetic,2385,0,0,0,11,56.5,Moderate
+SPJ0189,SpiceJet,Instagram,2026-10-10 16:54,The staff helped me understand the rebooking options.,Customer Service,Negative,Low,106,9,4,0,synthetic,20,0,1,0,22,55.4,Moderate
+SPJ0190,SpiceJet,Reddit,2026-10-20 23:34,Our flight was cancelled and the queue for assistance is very long.,Flight Cancellation,Negative,High,6,2,0,0,synthetic,1715,0,0,2,3,26.2,Low
+SPJ0191,SpiceJet,Reddit,2026-10-08 04:12,Where can I check the status of my SpiceJet flight?,General Enquiry,Neutral,Low,4,0,2,1,synthetic,2084,0,0,1,3,66.3,High
+SPJ0192,SpiceJet,Reddit,2026-10-10 17:28,Our flight was cancelled and the queue for assistance is very long.,Flight Cancellation,Negative,High,4,2,0,0,synthetic,476,1,0,3,1,3.0,Low
+SPJ0193,SpiceJet,Reddit,2026-10-20 20:52,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Low,2,4,1,0,synthetic,2327,0,0,0,3,53.2,Moderate
+SPJ0194,SpiceJet,Instagram,2026-10-04 04:12,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,8,4,0,0,synthetic,4564,0,1,4,3,25.8,Low
+SPJ0195,SpiceJet,X,2026-10-06 07:26,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Low,59,37,26,1,synthetic,11813,0,1,2,88,97.9,Viral
+SPJ0196,SpiceJet,YouTube,2026-10-11 08:33,Bhai flight ka update kab milega? Gate pe koi bata hi nahi raha.,Flight Delay,Negative,Medium,0,2,0,0,synthetic,256,0,0,1,1,12.3,Low
+SPJ0197,SpiceJet,Reddit,2026-10-09 14:18,The website is showing an error when I enter my booking details.,Booking/Check-in,Neutral,Medium,4,1,0,0,synthetic,105,0,0,0,2,2.3,Low
+SPJ0198,SpiceJet,Instagram,2026-10-08 03:56,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,2,1,1,0,synthetic,5276,0,1,0,2,32.5,Moderate
+SPJ0199,SpiceJet,X,2026-10-17 08:13,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,99,37,18,1,synthetic,9899,0,1,2,66,90.0,Viral
+SPJ0200,SpiceJet,Instagram,2026-10-11 11:26,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,Medium,4,0,1,0,synthetic,3830,0,0,0,1,2.8,Low
+SPJ0201,SpiceJet,Instagram,2026-10-08 15:37,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,1,1,2,1,synthetic,8907,0,0,2,3,63.2,High
+SPJ0202,SpiceJet,YouTube,2026-10-11 01:23,How can I get assistance for a passenger who needs extra support?,General Enquiry,Neutral,Low,9,0,0,0,synthetic,3522,0,0,2,1,15.9,Low
+SPJ0203,SpiceJet,Instagram,2026-10-19 14:51,I am still waiting for my refund after the cancellation.,Refund,Negative,Medium,3,1,1,0,synthetic,3323,0,0,1,2,47.7,Moderate
+SPJ0204,SpiceJet,Instagram,2026-10-21 15:54,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,2,1,0,1,synthetic,8803,0,1,0,1,66.8,High
+SPJ0205,SpiceJet,Reddit,2026-10-06 02:30,Amazing experience 🙃 missed my connection because of the delay.,Flight Delay,Negative,Medium,2,1,0,0,synthetic,1131,0,0,0,2,18.3,Low
+SPJ0206,SpiceJet,Instagram,2026-10-01 20:15,Cancellation message came at the last minute. What are my options?,Flight Cancellation,Negative,Medium,5,0,2,0,synthetic,11419,0,0,1,1,17.5,Low
+SPJ0207,SpiceJet,X,2026-10-01 15:47,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Medium,10,3,2,0,synthetic,1955,0,0,2,5,24.5,Low
+SPJ0208,SpiceJet,Instagram,2026-10-10 08:28,Bhai flight ka update kab milega? Gate pe koi bata hi nahi raha.,Customer Service,Negative,Low,5,8,1,1,synthetic,20981,0,1,1,10,72.6,High
+SPJ0209,SpiceJet,Reddit,2026-10-14 04:53,The departure time keeps changing in the app.,Flight Delay,Negative,Low,1,3,0,0,synthetic,1913,0,0,0,0,2.8,Low
+SPJ0210,SpiceJet,YouTube,2026-10-02 01:51,How can I check the status of my ticket refund?,Refund,Negative,High,6,2,1,0,synthetic,2308,0,0,0,5,20.5,Low
+SPJ0211,SpiceJet,Reddit,2026-10-11 16:09,I contacted support twice and still have no resolution.,Customer Service,Negative,Low,13,1,0,0,synthetic,412,0,0,0,13,28.1,Low
+SPJ0212,SpiceJet,YouTube,2026-10-09 09:25,Where can I find my boarding pass?,Booking/Check-in,Neutral,Low,5,2,3,0,synthetic,3322,0,1,1,4,5.1,Low
+SPJ0213,SpiceJet,YouTube,2026-10-20 14:15,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,13,2,1,0,synthetic,6582,0,0,0,7,21.4,Low
+SPJ0214,SpiceJet,X,2026-10-13 16:11,Several passengers are posting that their flight was cancelled with very little notice.,Positive Experience,Positive,Low,6,3,1,1,synthetic,2018,0,0,2,5,61.6,High
+SPJ0215,SpiceJet,Instagram,2026-10-09 21:15,Nobody is responding to my complaint about the flight.,Customer Service,Negative,Low,3,5,1,0,synthetic,3445,0,0,2,0,45.8,Moderate
+SPJ0216,SpiceJet,Instagram,2026-10-13 07:40,The staff helped me understand the rebooking options.,Customer Service,Negative,Low,56,12,7,1,synthetic,7741,0,1,2,18,83.1,Viral
+SPJ0217,SpiceJet,Reddit,2026-10-03 20:20,Crew was kind and helped an elderly passenger. That meant a lot.,Flight Delay,Negative,Low,9,0,1,0,synthetic,318,0,0,0,3,31.3,Moderate
+SPJ0218,SpiceJet,X,2026-10-10 23:24,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Low,9,1,1,0,synthetic,1692,0,0,1,5,27.6,Low
+SPJ0219,SpiceJet,Instagram,2026-10-07 22:11,Crew was kind and helped an elderly passenger. That meant a lot.,General Enquiry,Neutral,Low,9,7,1,0,synthetic,370,0,1,0,8,14.2,Low
+SPJ0220,SpiceJet,YouTube,2026-10-04 19:12,My suitcase was damaged during the journey. How do I report it?,Baggage Issue,Negative,High,9,4,1,0,synthetic,434,0,0,2,7,44.3,Moderate
+SPJ0221,SpiceJet,X,2026-10-09 06:10,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,Low,7,2,0,0,synthetic,475,0,0,0,3,2.2,Low
+SPJ0222,SpiceJet,Reddit,2026-10-14 10:03,Please clarify the expected refund process for my booking.,Refund,Negative,Medium,7,0,4,1,synthetic,758,0,0,1,4,70.8,High
+SPJ0223,SpiceJet,X,2026-10-13 05:53,Nobody is responding to my complaint about the flight.,Customer Service,Negative,Low,6,4,2,0,synthetic,1836,0,0,0,6,38.9,Moderate
+SPJ0224,SpiceJet,YouTube,2026-10-21 05:49,Where can I check the status of my SpiceJet flight?,General Enquiry,Neutral,Low,66,46,29,1,synthetic,2114,0,1,3,98,98.1,Viral
+SPJ0225,SpiceJet,Reddit,2026-10-06 18:20,Our flight was cancelled and the queue for assistance is very long.,Flight Cancellation,Negative,High,6,1,1,0,synthetic,1327,0,0,0,3,44.1,Moderate
+SPJ0226,SpiceJet,Instagram,2026-10-15 16:38,How can I get assistance for a passenger who needs extra support?,General Enquiry,Negative,Low,5,0,0,0,synthetic,2440,0,0,1,3,3.0,Low
+SPJ0227,SpiceJet,X,2026-10-12 13:21,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Low,6,5,0,1,synthetic,3255,0,0,3,6,62.4,High
+SPJ0228,SpiceJet,Instagram,2026-10-19 08:24,Where can I find my boarding pass?,Booking/Check-in,Neutral,Low,2,1,0,1,synthetic,2611,0,1,1,2,60.5,High
+SPJ0229,SpiceJet,Reddit,2026-10-20 01:39,Where can I find my boarding pass?,Booking/Check-in,Neutral,Medium,9,5,1,0,synthetic,166,0,0,0,11,20.9,Low
+SPJ0230,SpiceJet,YouTube,2026-10-15 20:35,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Medium,4,1,0,0,synthetic,1521,0,0,0,1,3.3,Low
+SPJ0231,SpiceJet,YouTube,2026-10-09 21:33,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Low,9,4,0,0,synthetic,1484,0,0,1,8,35.1,Moderate
+SPJ0232,SpiceJet,Reddit,2026-10-12 04:49,"My bag was delivered safely, thank you to the ground team.",Baggage Issue,Negative,Low,69,14,30,1,synthetic,16740,1,0,0,60,96.7,Viral
+SPJ0233,SpiceJet,YouTube,2026-10-14 16:23,What is the baggage allowance for this route?,General Enquiry,Neutral,Low,4,2,1,0,synthetic,16614,0,0,1,4,30.4,Moderate
+SPJ0234,SpiceJet,X,2026-10-17 22:10,The website is showing an error when I enter my booking details.,Booking/Check-in,Neutral,Low,6,2,0,0,synthetic,30671,0,0,1,3,32.0,Moderate
+SPJ0235,SpiceJet,YouTube,2026-10-05 19:21,What is the baggage allowance for this route?,General Enquiry,Neutral,Low,4,4,0,1,synthetic,78985,1,0,1,5,62.9,High
+SPJ0236,SpiceJet,Reddit,2026-10-19 07:59,Crew was kind and helped an elderly passenger. That meant a lot.,Positive Experience,Positive,Low,3,0,0,0,synthetic,147,0,0,2,1,7.0,Low
+SPJ0237,SpiceJet,Instagram,2026-10-17 19:52,How can I check the status of my ticket refund?,Refund,Negative,High,8,0,0,0,synthetic,8012,0,1,1,3,26.3,Low
+SPJ0238,SpiceJet,YouTube,2026-10-02 20:25,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Low,3,2,0,0,synthetic,5709,0,0,0,1,13.1,Low
+SPJ0239,SpiceJet,YouTube,2026-10-06 15:54,Bhai flight ka update kab milega? Gate pe koi bata hi nahi raha.,Flight Delay,Negative,Medium,4,6,0,0,synthetic,3852,0,0,0,5,48.9,Moderate
+SPJ0240,SpiceJet,Instagram,2026-10-05 22:50,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,1,1,0,0,synthetic,59703,0,1,0,1,15.3,Low
+SPJ0241,SpiceJet,Instagram,2026-10-13 04:13,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,10,5,1,0,synthetic,105371,0,0,0,2,55.2,Moderate
+SPJ0242,SpiceJet,Reddit,2026-10-05 09:09,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,6,4,0,1,synthetic,6880,1,0,1,5,70.7,High
+SPJ0243,SpiceJet,Reddit,2026-10-07 07:19,Cancellation message came at the last minute. What are my options?,Flight Cancellation,Negative,High,5,0,0,1,synthetic,4384,0,0,0,4,76.5,High
+SPJ0244,SpiceJet,Reddit,2026-10-04 23:20,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Low,4,0,0,0,synthetic,168,0,0,0,1,2.1,Low
+SPJ0245,SpiceJet,Instagram,2026-10-02 09:58,Where can I find my boarding pass?,Booking/Check-in,Neutral,Medium,13,1,1,0,synthetic,672,0,0,0,6,38.5,Moderate
+SPJ0246,SpiceJet,Instagram,2026-10-10 15:31,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Low,2,5,0,1,synthetic,18626,0,1,1,4,67.2,High
+SPJ0247,SpiceJet,Instagram,2026-10-07 17:06,The website is showing an error when I enter my booking details.,Booking/Check-in,Neutral,Low,5,3,2,1,synthetic,6377,0,0,0,4,71.9,High
+SPJ0248,SpiceJet,Reddit,2026-10-11 14:16,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,Medium,98,10,16,1,synthetic,282,1,1,0,80,83.2,Viral
+SPJ0249,SpiceJet,X,2026-10-05 10:51,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,Low,3,2,5,0,synthetic,3354,0,1,1,1,32.8,Moderate
+SPJ0250,SpiceJet,Instagram,2026-10-07 00:19,How can I check the status of my ticket refund?,Refund,Negative,Low,7,7,2,1,synthetic,11641,0,0,2,8,73.4,High
+SPJ0251,SpiceJet,Reddit,2026-10-19 17:54,The staff helped me understand the rebooking options.,Customer Service,Negative,Low,25,31,20,1,synthetic,6479,0,0,2,51,95.3,Viral
+SPJ0252,SpiceJet,Instagram,2026-10-17 21:44,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,7,1,1,0,synthetic,2725,0,1,0,2,45.4,Moderate
+SPJ0253,SpiceJet,Instagram,2026-10-06 14:08,How can I check the status of my ticket refund?,Refund,Negative,High,79,29,19,1,synthetic,4880,0,1,1,113,98.9,Viral
+SPJ0254,SpiceJet,Instagram,2026-10-04 09:32,Cancellation message came at the last minute. What are my options?,Flight Cancellation,Negative,Medium,6,1,1,0,synthetic,3189,0,0,2,5,51.8,Moderate
+SPJ0255,SpiceJet,Instagram,2026-10-21 11:06,Can someone explain the process after a flight cancellation?,Flight Cancellation,Negative,Medium,8,2,0,0,synthetic,4015,0,0,1,4,14.6,Low
+SPJ0256,SpiceJet,Reddit,2026-10-15 07:09,The ground staff were patient and helpful today.,Customer Service,Negative,Low,5,1,2,0,synthetic,159,0,1,1,0,9.0,Low
+SPJ0257,SpiceJet,X,2026-10-11 08:08,Amazing experience 🙃 missed my connection because of the delay.,Positive Experience,Positive,Low,11,3,3,0,synthetic,12588,0,0,0,6,14.0,Low
+SPJ0258,SpiceJet,Instagram,2026-10-15 16:29,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,High,6,1,0,0,synthetic,65192,0,0,1,5,34.5,Moderate
+SPJ0259,SpiceJet,YouTube,2026-10-05 15:25,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,5,2,1,0,synthetic,6144,0,0,1,6,10.7,Low
+SPJ0260,SpiceJet,Reddit,2026-10-09 23:46,The website is showing an error when I enter my booking details.,Booking/Check-in,Neutral,Low,6,0,0,0,synthetic,107,0,0,1,3,6.8,Low
+SPJ0261,SpiceJet,X,2026-10-09 05:14,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Medium,2,2,0,0,synthetic,4536,0,1,0,3,28.2,Low
+SPJ0262,SpiceJet,Reddit,2026-10-16 03:19,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,2,0,1,1,synthetic,155,0,0,0,1,60.6,High
+SPJ0263,SpiceJet,Instagram,2026-10-04 20:26,"My bag was delivered safely, thank you to the ground team.",Baggage Issue,Negative,Medium,2,3,0,0,synthetic,252,0,0,1,2,14.1,Low
+SPJ0264,SpiceJet,Reddit,2026-10-11 06:30,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,High,4,9,1,0,synthetic,1974,0,0,0,2,33.9,Moderate
+SPJ0265,SpiceJet,Instagram,2026-10-18 12:10,Amazing experience 🙃 missed my connection because of the delay.,General Enquiry,Neutral,Low,13,4,0,0,synthetic,3520,0,0,2,6,25.5,Low
+SPJ0266,SpiceJet,X,2026-10-05 02:56,Amazing experience 🙃 missed my connection because of the delay.,Flight Delay,Negative,Medium,31,40,13,1,synthetic,3449,0,0,1,49,74.8,High
+SPJ0267,SpiceJet,Instagram,2026-10-03 12:27,Our flight was cancelled and the queue for assistance is very long.,Flight Cancellation,Negative,Medium,93,19,25,0,synthetic,176,0,0,2,48,55.9,Moderate
+SPJ0268,SpiceJet,Reddit,2026-10-18 05:53,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Medium,2,0,0,0,synthetic,137,0,1,1,1,3.6,Low
+SPJ0269,SpiceJet,Instagram,2026-10-19 08:15,The departure time keeps changing in the app.,Flight Delay,Negative,High,4,2,0,1,synthetic,8857,0,0,0,3,62.2,High
+SPJ0270,SpiceJet,YouTube,2026-10-10 01:00,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,5,0,1,0,synthetic,2085,0,0,2,2,31.6,Moderate
+SPJ0271,SpiceJet,X,2026-10-01 23:08,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,11,3,0,0,synthetic,10323,0,0,2,12,21.3,Low
+SPJ0272,SpiceJet,Reddit,2026-10-12 08:30,The departure time keeps changing in the app.,Flight Delay,Negative,Medium,12,2,0,0,synthetic,6516,0,0,0,5,42.9,Moderate
+SPJ0273,SpiceJet,YouTube,2026-10-07 07:00,The departure time keeps changing in the app.,Flight Delay,Negative,High,62,25,29,1,synthetic,2795,0,1,0,72,95.1,Viral
+SPJ0274,SpiceJet,X,2026-10-13 08:03,Where can I find my boarding pass?,Booking/Check-in,Neutral,Medium,4,5,1,1,synthetic,17036,0,1,1,7,69.3,High
+SPJ0275,SpiceJet,X,2026-10-03 22:30,The staff helped me understand the rebooking options.,Customer Service,Negative,Low,98,12,29,1,synthetic,7367,0,1,2,77,96.5,Viral
+SPJ0276,SpiceJet,Instagram,2026-10-17 21:47,My checked-in bag has not arrived at the carousel.,Baggage Issue,Negative,Medium,10,0,0,1,synthetic,3565,0,1,3,8,81.2,Viral
+SPJ0277,SpiceJet,YouTube,2026-10-15 09:22,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,Medium,10,0,0,0,synthetic,1422,0,0,1,6,56.7,Moderate
+SPJ0278,SpiceJet,YouTube,2026-10-14 13:11,My refund has not arrived and customer support has not replied.,Refund,Negative,Medium,2,7,2,0,synthetic,7524,0,0,2,2,32.9,Moderate
+SPJ0279,SpiceJet,Reddit,2026-10-11 18:12,Good experience with the crew on today's flight.,Positive Experience,Positive,Low,4,6,1,1,synthetic,429,0,1,1,8,72.3,High
+SPJ0280,SpiceJet,Instagram,2026-10-05 14:59,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,6,1,3,0,synthetic,15297,0,0,0,5,15.8,Low
+SPJ0281,SpiceJet,Instagram,2026-10-20 17:25,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,0,0,0,0,synthetic,24342,0,1,0,0,3.4,Low
+SPJ0282,SpiceJet,X,2026-10-06 13:57,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,2,2,1,0,synthetic,4182,0,1,3,2,31.1,Moderate
+SPJ0283,SpiceJet,X,2026-10-08 16:33,Can someone explain the process after a flight cancellation?,Flight Cancellation,Negative,High,8,5,5,0,synthetic,5661,0,0,1,8,52.1,Moderate
+SPJ0284,SpiceJet,X,2026-10-20 10:50,My SpiceJet flight was cancelled and I need help with the next steps.,Flight Cancellation,Negative,High,3,3,1,1,synthetic,1267,0,1,1,2,60.1,High
+SPJ0285,SpiceJet,X,2026-10-01 20:32,The website is showing an error when I enter my booking details.,Booking/Check-in,Neutral,Low,39,30,21,1,synthetic,232445,0,0,1,62,83.6,Viral
+SPJ0286,SpiceJet,Reddit,2026-10-03 15:02,My checked-in bag has not arrived at the carousel.,Baggage Issue,Negative,Medium,37,43,14,1,synthetic,6875,1,0,3,56,99.5,Viral
+SPJ0287,SpiceJet,Reddit,2026-10-16 23:52,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,High,4,2,1,0,synthetic,1007,0,1,0,5,47.3,Moderate
+SPJ0288,SpiceJet,Reddit,2026-10-08 17:27,"My bag was delivered safely, thank you to the ground team.",Baggage Issue,Negative,Medium,3,0,0,0,synthetic,859,0,1,1,1,6.9,Low
+SPJ0289,SpiceJet,YouTube,2026-10-13 04:04,The website is showing an error when I enter my booking details.,Booking/Check-in,Neutral,Low,2,4,1,1,synthetic,8328,0,0,4,4,74.5,High
+SPJ0290,SpiceJet,YouTube,2026-10-13 04:35,The departure time keeps changing in the app.,Flight Delay,Negative,Medium,7,0,0,0,synthetic,811,0,0,1,4,5.7,Low
+SPJ0291,SpiceJet,Instagram,2026-10-18 09:01,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,2,8,4,0,synthetic,4676,0,0,1,6,51.7,Moderate
+SPJ0292,SpiceJet,Reddit,2026-10-14 00:37,Crew was kind and helped an elderly passenger. That meant a lot.,Flight Delay,Negative,Medium,12,3,0,0,synthetic,221,0,1,1,6,4.5,Low
+SPJ0293,SpiceJet,Instagram,2026-10-09 22:46,Where can I check the status of my SpiceJet flight?,General Enquiry,Neutral,Low,70,34,28,1,synthetic,14073,0,0,1,83,87.3,Viral
+SPJ0294,SpiceJet,Instagram,2026-10-12 12:49,The departure time keeps changing in the app.,Flight Delay,Negative,High,1,6,2,1,synthetic,2773,0,1,2,3,77.0,High
+SPJ0295,SpiceJet,YouTube,2026-10-16 12:02,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,2,0,2,0,synthetic,6875,0,1,1,2,16.1,Low
+SPJ0296,SpiceJet,YouTube,2026-10-08 23:04,What time does boarding usually close?,General Enquiry,Neutral,Low,1,6,1,0,synthetic,1689,0,0,1,4,53.8,Moderate
+SPJ0297,SpiceJet,Instagram,2026-10-04 14:13,What is the baggage allowance for this route?,General Enquiry,Neutral,Low,7,2,0,0,synthetic,4584,0,0,0,5,8.1,Low
+SPJ0298,SpiceJet,X,2026-10-11 05:05,Good experience with the crew on today's flight.,Positive Experience,Positive,Low,6,0,0,1,synthetic,532761,0,0,1,5,73.7,High
+SPJ0299,SpiceJet,X,2026-10-21 23:45,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,1,3,7,0,synthetic,12093,0,0,1,3,18.0,Low
+SPJ0300,SpiceJet,Instagram,2026-10-03 08:31,The staff helped me understand the rebooking options.,Customer Service,Negative,Low,5,5,0,0,synthetic,4578,1,0,0,1,44.8,Moderate
+SPJ0301,SpiceJet,Instagram,2026-10-04 15:31,"Wow, only three hours late. Truly an on-time champion 🙃",Positive Experience,Positive,Low,2,4,0,1,synthetic,7527,0,1,0,3,73.2,High
+SPJ0302,SpiceJet,Instagram,2026-10-21 21:31,The departure time keeps changing in the app.,Flight Delay,Negative,Medium,1,1,0,1,synthetic,1684,0,0,4,1,68.4,High
+SPJ0303,SpiceJet,Reddit,2026-10-18 10:13,The website is showing an error when I enter my booking details.,Booking/Check-in,Neutral,Low,7,6,2,0,synthetic,3552,0,0,1,1,6.5,Low
+SPJ0304,SpiceJet,X,2026-10-03 10:59,I am still waiting for my refund after the cancellation.,Refund,Negative,Medium,12,5,0,0,synthetic,36425,0,0,1,10,51.4,Moderate
+SPJ0305,SpiceJet,Instagram,2026-10-05 11:04,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Medium,3,3,1,0,synthetic,3456,0,0,1,1,10.3,Low
+SPJ0306,SpiceJet,Reddit,2026-10-15 12:10,Please clarify the expected refund process for my booking.,Refund,Negative,Medium,2,1,0,0,synthetic,8054,0,1,0,0,4.6,Low
+SPJ0307,SpiceJet,Instagram,2026-10-17 10:23,"My bag was delivered safely, thank you to the ground team.",Baggage Issue,Negative,Medium,7,5,0,0,synthetic,2707,0,1,1,4,50.3,Moderate
+SPJ0308,SpiceJet,Instagram,2026-10-16 09:54,Where can I find my boarding pass?,Booking/Check-in,Neutral,Low,9,1,4,0,synthetic,273,0,0,1,2,9.4,Low
+SPJ0309,SpiceJet,X,2026-10-19 02:04,My SpiceJet flight was cancelled and I need help with the next steps.,Flight Cancellation,Negative,Medium,7,5,4,0,synthetic,1614,0,0,0,4,42.6,Moderate
+SPJ0310,SpiceJet,Instagram,2026-10-11 15:24,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Low,2,2,1,0,synthetic,734,0,0,0,1,22.6,Low
+SPJ0311,SpiceJet,Instagram,2026-10-19 09:49,Please clarify the expected refund process for my booking.,Refund,Negative,Low,29,40,30,1,synthetic,4844,0,1,1,58,97.5,Viral
+SPJ0312,SpiceJet,YouTube,2026-10-13 12:23,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,Medium,3,4,1,0,synthetic,4744,0,1,0,3,4.1,Low
+SPJ0313,SpiceJet,Reddit,2026-10-10 23:45,"Wow, only three hours late. Truly an on-time champion 🙃",Flight Cancellation,Negative,High,13,2,0,0,synthetic,220,0,0,0,10,15.1,Low
+SPJ0314,SpiceJet,X,2026-10-14 08:45,My checked-in bag has not arrived at the carousel.,Baggage Issue,Negative,Medium,4,2,1,0,synthetic,3563,0,0,1,3,14.3,Low
+SPJ0315,SpiceJet,X,2026-10-10 00:07,My suitcase was damaged during the journey. How do I report it?,Baggage Issue,Negative,Medium,48,19,3,0,synthetic,5243,0,1,0,23,56.2,Moderate
+SPJ0316,SpiceJet,Instagram,2026-10-13 17:37,"My bag was delivered safely, thank you to the ground team.",Baggage Issue,Negative,Low,4,0,1,0,synthetic,1148,0,0,2,2,15.0,Low
+SPJ0317,SpiceJet,Instagram,2026-10-18 12:13,My checked-in bag has not arrived at the carousel.,Baggage Issue,Negative,Medium,6,7,0,0,synthetic,900,0,0,0,4,19.9,Low
+SPJ0318,SpiceJet,Reddit,2026-10-21 02:55,The ground staff were patient and helpful today.,Customer Service,Negative,Low,6,4,3,0,synthetic,896,0,0,0,4,47.8,Moderate
+SPJ0319,SpiceJet,Instagram,2026-10-13 04:03,Our flight was cancelled and the queue for assistance is very long.,Flight Cancellation,Negative,Medium,14,0,1,0,synthetic,10554,0,0,0,2,51.0,Moderate
+SPJ0320,SpiceJet,X,2026-10-01 02:53,Bhai flight ka update kab milega? Gate pe koi bata hi nahi raha.,General Enquiry,Negative,Low,1,0,1,0,synthetic,1730,0,1,1,1,2.9,Low
+SPJ0321,SpiceJet,Reddit,2026-10-14 01:07,How can I get assistance for a passenger who needs extra support?,General Enquiry,Negative,Low,5,3,1,0,synthetic,281,0,0,1,2,13.4,Low
+SPJ0322,SpiceJet,Instagram,2026-10-06 06:57,How can I check the status of my ticket refund?,Refund,Negative,Low,25,1,3,1,synthetic,5824,0,0,5,9,86.5,Viral
+SPJ0323,SpiceJet,X,2026-10-05 22:58,"My bag was delivered safely, thank you to the ground team.",Baggage Issue,Negative,Medium,5,4,1,0,synthetic,5942,1,1,0,2,5.5,Low
+SPJ0324,SpiceJet,Instagram,2026-10-19 12:07,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Medium,0,0,4,0,synthetic,1493,0,0,3,2,4.2,Low
+SPJ0325,SpiceJet,YouTube,2026-10-10 08:51,Several passengers are posting that their flight was cancelled with very little notice.,Positive Experience,Positive,Low,10,2,0,0,synthetic,1257,0,0,2,3,5.3,Low
+SPJ0326,SpiceJet,YouTube,2026-10-17 14:22,I contacted support twice and still have no resolution.,Customer Service,Negative,Low,2,4,5,1,synthetic,3245,0,0,4,5,73.5,High
+SPJ0327,SpiceJet,YouTube,2026-10-08 18:12,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Medium,9,7,0,0,synthetic,445,0,1,0,2,4.1,Low
+SPJ0328,SpiceJet,Reddit,2026-10-13 17:50,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Medium,7,2,0,0,synthetic,621,1,0,0,1,3.5,Low
+SPJ0329,SpiceJet,Reddit,2026-10-14 23:19,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Low,16,6,0,0,synthetic,366,0,1,1,7,44.2,Moderate
+SPJ0330,SpiceJet,X,2026-10-19 18:12,Crew was kind and helped an elderly passenger. That meant a lot.,Flight Cancellation,Negative,High,10,5,3,0,synthetic,35484,0,0,0,12,50.8,Moderate
+SPJ0331,SpiceJet,X,2026-10-05 03:01,The staff helped me understand the rebooking options.,Customer Service,Negative,Low,2,4,0,1,synthetic,4361,0,1,3,4,65.5,High
+SPJ0332,SpiceJet,YouTube,2026-10-12 18:51,My SpiceJet flight was cancelled and I need help with the next steps.,Flight Cancellation,Negative,High,7,4,0,0,synthetic,3752,0,0,0,1,41.4,Moderate
+SPJ0333,SpiceJet,Instagram,2026-10-09 12:29,Crew was kind and helped an elderly passenger. That meant a lot.,Customer Service,Negative,Low,12,4,0,0,synthetic,5342,0,1,0,8,14.1,Low
+SPJ0334,SpiceJet,Reddit,2026-10-10 17:46,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,3,2,1,0,synthetic,169,0,0,1,3,8.6,Low
+SPJ0335,SpiceJet,X,2026-10-18 19:45,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,6,2,5,0,synthetic,708,0,0,2,6,49.3,Moderate
+SPJ0336,SpiceJet,Instagram,2026-10-03 20:27,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Medium,1,2,0,0,synthetic,1708,0,0,1,1,3.3,Low
+SPJ0337,SpiceJet,YouTube,2026-10-12 11:24,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,High,43,42,12,1,synthetic,11156,0,1,2,62,98.3,Viral
+SPJ0338,SpiceJet,YouTube,2026-10-09 03:28,I contacted support twice and still have no resolution.,Customer Service,Negative,Low,7,6,0,0,synthetic,903,0,0,0,4,3.1,Low
+SPJ0339,SpiceJet,Instagram,2026-10-19 19:36,Crew was kind and helped an elderly passenger. That meant a lot.,Flight Delay,Negative,Low,5,1,0,0,synthetic,1277,0,0,1,0,16.7,Low
+SPJ0340,SpiceJet,Reddit,2026-10-05 13:04,How can I get assistance for a passenger who needs extra support?,General Enquiry,Neutral,Medium,38,26,17,1,synthetic,32,0,0,0,66,76.8,High
+SPJ0341,SpiceJet,Instagram,2026-10-05 21:11,The departure time keeps changing in the app.,Flight Delay,Negative,High,4,3,2,0,synthetic,1827,0,0,0,1,25.1,Low
+SPJ0342,SpiceJet,Reddit,2026-10-02 21:47,What time does boarding usually close?,General Enquiry,Neutral,Low,7,4,0,0,synthetic,1223,0,0,0,2,43.3,Moderate
+SPJ0343,SpiceJet,X,2026-10-10 05:42,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,7,4,0,1,synthetic,16474,0,0,0,2,77.6,High
+SPJ0344,SpiceJet,X,2026-10-01 05:27,Where can I find my boarding pass?,Booking/Check-in,Neutral,Low,2,6,6,1,synthetic,16125,0,1,2,8,79.5,High
+SPJ0345,SpiceJet,YouTube,2026-10-11 12:12,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,34,14,18,1,synthetic,2839,0,0,0,10,83.4,Viral
+SPJ0346,SpiceJet,Instagram,2026-10-05 16:41,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Low,4,5,0,0,synthetic,2310,0,1,0,6,39.0,Moderate
+SPJ0347,SpiceJet,Reddit,2026-10-09 09:53,Where can I check the status of my SpiceJet flight?,General Enquiry,Neutral,Low,3,1,0,0,synthetic,2508,0,0,0,1,2.6,Low
+SPJ0348,SpiceJet,X,2026-10-13 17:00,"Wow, only three hours late. Truly an on-time champion 🙃",Flight Cancellation,Negative,Medium,5,2,0,0,synthetic,3300,0,0,0,1,41.0,Moderate
+SPJ0349,SpiceJet,YouTube,2026-10-15 08:59,The website is showing an error when I enter my booking details.,Booking/Check-in,Neutral,Low,79,18,22,1,synthetic,185,0,0,2,84,69.4,High
+SPJ0350,SpiceJet,X,2026-10-02 06:51,The departure time keeps changing in the app.,Flight Delay,Negative,Low,4,13,0,1,synthetic,36475,0,1,1,10,81.7,Viral
+SPJ0351,SpiceJet,Instagram,2026-10-04 02:57,The website is showing an error when I enter my booking details.,Booking/Check-in,Neutral,Low,5,7,1,0,synthetic,713,0,0,2,4,40.3,Moderate
+SPJ0352,SpiceJet,X,2026-10-07 16:09,The departure time keeps changing in the app.,Flight Delay,Negative,Medium,7,2,2,1,synthetic,59589,0,1,3,3,70.0,High
+SPJ0353,SpiceJet,Instagram,2026-10-11 21:46,Where can I find my boarding pass?,Booking/Check-in,Neutral,Low,0,3,3,0,synthetic,32846,0,1,0,2,44.7,Moderate
+SPJ0354,SpiceJet,Instagram,2026-10-19 13:17,Can I change the passenger name after booking?,Booking/Check-in,Neutral,Low,3,7,0,0,synthetic,9067,0,1,1,8,42.2,Moderate
+SPJ0355,SpiceJet,YouTube,2026-10-03 21:56,How can I check the status of my ticket refund?,Refund,Negative,Medium,84,24,16,1,synthetic,15576,0,0,1,67,92.2,Viral
+SPJ0356,SpiceJet,Instagram,2026-10-02 10:12,Amazing experience 🙃 missed my connection because of the delay.,Booking/Check-in,Neutral,Low,2,0,2,0,synthetic,41179,0,1,0,2,38.2,Moderate
+SPJ0357,SpiceJet,Instagram,2026-10-14 05:06,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Low,5,1,3,1,synthetic,1544,0,0,1,5,77.2,High
+SPJ0358,SpiceJet,Instagram,2026-10-21 13:21,Good experience with the crew on today's flight.,Positive Experience,Positive,Medium,5,3,1,0,synthetic,4490,0,0,2,1,52.5,Moderate
+SPJ0359,SpiceJet,YouTube,2026-10-18 10:26,I am still waiting for my refund after the cancellation.,Refund,Negative,Low,49,7,3,0,synthetic,2776,0,0,1,19,33.2,Moderate
+SPJ0360,SpiceJet,Reddit,2026-10-12 20:58,The website is showing an error when I enter my booking details.,Booking/Check-in,Neutral,Medium,6,2,1,0,synthetic,208,0,0,0,4,21.5,Low
+SPJ0361,SpiceJet,Instagram,2026-10-01 10:04,"Wow, only three hours late. Truly an on-time champion 🙃",General Enquiry,Neutral,Medium,0,2,1,0,synthetic,50943,0,0,1,2,50.6,Moderate
+SPJ0362,SpiceJet,Reddit,2026-10-13 02:24,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,High,44,37,7,1,synthetic,797,0,1,1,72,85.0,Viral
+SPJ0363,SpiceJet,X,2026-10-10 14:17,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Medium,1,1,3,0,synthetic,1449,0,1,2,0,39.6,Moderate
+SPJ0364,SpiceJet,Instagram,2026-10-10 09:15,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,8,1,2,0,synthetic,4577,0,0,2,8,2.3,Low
+SPJ0365,SpiceJet,Instagram,2026-10-11 08:19,The ground staff were patient and helpful today.,Customer Service,Negative,Low,36,18,23,1,synthetic,29421,0,0,2,50,97.1,Viral
+SPJ0366,SpiceJet,X,2026-10-12 19:00,My suitcase was damaged during the journey. How do I report it?,Baggage Issue,Negative,Medium,3,1,1,0,synthetic,1735,0,0,0,4,24.0,Low
+SPJ0367,SpiceJet,X,2026-10-16 03:00,Good experience with the crew on today's flight.,Positive Experience,Positive,Low,5,0,2,0,synthetic,1738,0,1,1,2,14.9,Low
+SPJ0368,SpiceJet,YouTube,2026-10-05 00:49,I contacted support twice and still have no resolution.,Customer Service,Negative,Medium,5,4,1,0,synthetic,4003,0,0,0,4,30.9,Moderate
+SPJ0369,SpiceJet,X,2026-10-02 13:39,Amazing experience 🙃 missed my connection because of the delay.,Baggage Issue,Negative,Medium,1,1,1,0,synthetic,555,0,0,2,2,35.6,Moderate
+SPJ0370,SpiceJet,Instagram,2026-10-02 01:55,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,7,2,0,0,synthetic,1087,0,0,2,3,9.9,Low
+SPJ0371,SpiceJet,Instagram,2026-10-09 12:38,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,10,2,3,0,synthetic,993,1,0,1,2,5.7,Low
+SPJ0372,SpiceJet,Reddit,2026-10-11 16:00,Can someone explain the process after a flight cancellation?,Flight Cancellation,Negative,Medium,2,5,1,1,synthetic,975,0,0,2,4,61.2,High
+SPJ0373,SpiceJet,Instagram,2026-10-17 11:52,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,Medium,3,0,1,0,synthetic,2598,0,0,0,1,4.7,Low
+SPJ0374,SpiceJet,Reddit,2026-10-10 02:27,My suitcase was damaged during the journey. How do I report it?,Baggage Issue,Negative,Medium,78,31,21,1,synthetic,22726,0,0,1,49,90.2,Viral
+SPJ0375,SpiceJet,YouTube,2026-10-12 04:12,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,12,3,0,1,synthetic,15646,0,1,1,8,67.9,High
+SPJ0376,SpiceJet,Reddit,2026-10-21 12:16,The departure time keeps changing in the app.,Flight Delay,Negative,Medium,7,1,0,0,synthetic,819,0,0,1,4,22.4,Low
+SPJ0377,SpiceJet,YouTube,2026-10-16 17:55,What time does boarding usually close?,General Enquiry,Neutral,Low,83,38,20,1,synthetic,3274,0,1,2,71,87.1,Viral
+SPJ0378,SpiceJet,Instagram,2026-10-15 12:13,Please clarify the expected refund process for my booking.,Refund,Negative,Medium,4,1,0,0,synthetic,10583,0,0,1,1,15.6,Low
+SPJ0379,SpiceJet,Instagram,2026-10-08 15:27,"My bag was delivered safely, thank you to the ground team.",Baggage Issue,Negative,Medium,8,2,0,0,synthetic,5715,0,0,1,6,18.1,Low
+SPJ0380,SpiceJet,Instagram,2026-10-04 04:42,I contacted support twice and still have no resolution.,Customer Service,Negative,Medium,6,1,0,0,synthetic,10832,0,1,2,5,32.1,Moderate
+SPJ0381,SpiceJet,Reddit,2026-10-20 07:43,Where can I find my boarding pass?,Booking/Check-in,Neutral,Low,64,24,14,1,synthetic,11983,0,1,1,45,89.2,Viral
+SPJ0382,SpiceJet,Instagram,2026-10-12 14:57,How can I get assistance for a passenger who needs extra support?,General Enquiry,Neutral,Low,15,1,0,0,synthetic,785,0,0,2,8,27.8,Low
+SPJ0383,SpiceJet,Instagram,2026-10-02 14:58,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,1,8,1,0,synthetic,140,0,0,1,2,13.5,Low
+SPJ0384,SpiceJet,Instagram,2026-10-11 03:04,How can I check the status of my ticket refund?,Refund,Negative,Medium,4,0,6,0,synthetic,3068,0,0,1,5,51.5,Moderate
+SPJ0385,SpiceJet,Instagram,2026-10-02 21:56,"My bag was delivered safely, thank you to the ground team.",Baggage Issue,Negative,Medium,5,2,3,0,synthetic,3529,0,0,0,3,23.0,Low
+SPJ0386,SpiceJet,X,2026-10-21 14:35,What is the baggage allowance for this route?,General Enquiry,Neutral,Low,4,4,1,0,synthetic,5916,0,0,1,5,43.7,Moderate
+SPJ0387,SpiceJet,Instagram,2026-10-12 02:21,The staff helped me understand the rebooking options.,Customer Service,Negative,Medium,19,0,0,0,synthetic,1382,0,0,0,13,36.6,Moderate
+SPJ0388,SpiceJet,X,2026-10-17 11:37,What time does boarding usually close?,General Enquiry,Neutral,Low,8,0,4,1,synthetic,6462,0,1,0,4,78.0,High
+SPJ0389,SpiceJet,Instagram,2026-10-10 21:17,The departure time keeps changing in the app.,Flight Delay,Negative,Medium,8,3,0,0,synthetic,6842,0,0,1,8,52.0,Moderate
+SPJ0390,SpiceJet,Reddit,2026-10-01 09:56,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,57,28,10,1,synthetic,4145,0,1,2,40,96.9,Viral
+SPJ0391,SpiceJet,YouTube,2026-10-14 09:47,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Low,5,2,0,0,synthetic,12548,0,1,0,6,43.4,Moderate
+SPJ0392,SpiceJet,Instagram,2026-10-14 17:10,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Medium,7,1,0,0,synthetic,158,0,0,1,3,16.4,Low
+SPJ0393,SpiceJet,X,2026-10-05 19:26,Where can I find my boarding pass?,Booking/Check-in,Neutral,Low,9,7,1,1,synthetic,913,0,0,2,5,66.7,High
+SPJ0394,SpiceJet,X,2026-10-16 01:05,Nobody is responding to my complaint about the flight.,Customer Service,Negative,Low,13,6,0,0,synthetic,30003,0,0,0,10,25.7,Low
+SPJ0395,SpiceJet,X,2026-10-05 17:55,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,9,2,1,1,synthetic,20649,0,0,0,11,78.1,High
+SPJ0396,SpiceJet,Instagram,2026-10-15 12:33,How can I check the status of my ticket refund?,Refund,Negative,Medium,3,6,1,1,synthetic,21186,0,1,2,3,79.1,High
+SPJ0397,SpiceJet,Instagram,2026-10-16 17:33,Good experience with the crew on today's flight.,Positive Experience,Positive,Low,15,5,3,0,synthetic,2133,0,0,0,4,54.4,Moderate
+SPJ0398,SpiceJet,Reddit,2026-10-03 21:16,Our flight was cancelled and the queue for assistance is very long.,Flight Cancellation,Negative,High,10,2,1,0,synthetic,412,0,0,0,9,31.2,Moderate
+SPJ0399,SpiceJet,Instagram,2026-10-07 03:02,How can I check the status of my ticket refund?,Refund,Negative,Medium,1,0,0,0,synthetic,4167,0,1,3,1,7.4,Low
+SPJ0400,SpiceJet,Reddit,2026-10-04 10:18,My refund has not arrived and customer support has not replied.,Refund,Negative,Low,3,2,0,0,synthetic,216,0,0,3,3,3.4,Low
+SPJ0401,SpiceJet,YouTube,2026-10-16 06:33,My suitcase was damaged during the journey. How do I report it?,Baggage Issue,Negative,Low,3,1,1,0,synthetic,240,0,0,0,2,37.9,Moderate
+SPJ0402,SpiceJet,YouTube,2026-10-05 22:43,What time does boarding usually close?,General Enquiry,Neutral,Low,1,5,1,0,synthetic,430,0,0,2,4,9.2,Low
+SPJ0403,SpiceJet,X,2026-10-14 10:54,"Wow, only three hours late. Truly an on-time champion 🙃",Positive Experience,Positive,Medium,6,9,0,0,synthetic,4676,0,1,1,2,37.4,Moderate
+SPJ0404,SpiceJet,Reddit,2026-10-09 18:27,The departure time keeps changing in the app.,Flight Delay,Negative,Low,4,2,0,0,synthetic,1915,0,0,1,1,24.1,Low
+SPJ0405,SpiceJet,Instagram,2026-10-02 17:59,How can I get assistance for a passenger who needs extra support?,General Enquiry,Neutral,Low,5,0,6,0,synthetic,30956,0,0,0,5,41.8,Moderate
+SPJ0406,SpiceJet,Instagram,2026-10-19 12:52,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,6,3,3,0,synthetic,5285,0,1,2,4,50.0,Moderate
+SPJ0407,SpiceJet,Reddit,2026-10-15 22:24,Cancellation message came at the last minute. What are my options?,Flight Cancellation,Negative,High,8,2,0,0,synthetic,1525,0,0,0,4,2.7,Low
+SPJ0408,SpiceJet,YouTube,2026-10-06 11:51,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Low,12,3,0,0,synthetic,20553,0,1,1,6,39.8,Moderate
+SPJ0409,SpiceJet,Instagram,2026-10-19 11:16,The departure time keeps changing in the app.,Flight Delay,Negative,Medium,3,6,0,0,synthetic,1081,0,0,0,5,41.6,Moderate
+SPJ0410,SpiceJet,YouTube,2026-10-15 21:15,What time does boarding usually close?,General Enquiry,Neutral,Low,9,2,0,0,synthetic,530,0,0,0,5,2.0,Low
+SPJ0411,SpiceJet,Reddit,2026-10-18 03:35,Nobody is responding to my complaint about the flight.,Customer Service,Negative,Medium,10,5,0,0,synthetic,377,0,0,0,4,2.7,Low
+SPJ0412,SpiceJet,X,2026-10-04 17:46,Nobody is responding to my complaint about the flight.,Customer Service,Negative,Low,4,0,0,0,synthetic,3485,0,0,2,1,9.3,Low
+SPJ0413,SpiceJet,YouTube,2026-10-01 04:27,The departure time keeps changing in the app.,Flight Delay,Negative,High,6,0,0,0,synthetic,32654,0,0,0,4,3.8,Low
+SPJ0414,SpiceJet,Instagram,2026-10-02 07:08,Bhai flight ka update kab milega? Gate pe koi bata hi nahi raha.,Positive Experience,Positive,Low,9,0,0,0,synthetic,1952,0,0,0,4,8.2,Low
+SPJ0415,SpiceJet,Instagram,2026-10-12 08:00,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,High,1,2,0,0,synthetic,19242,0,1,1,2,46.5,Moderate
+SPJ0416,SpiceJet,YouTube,2026-10-17 12:28,Cancellation message came at the last minute. What are my options?,Flight Cancellation,Negative,Medium,77,25,11,1,synthetic,2324,0,0,1,52,72.5,High
+SPJ0417,SpiceJet,Instagram,2026-10-20 04:19,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Low,3,3,1,0,synthetic,6235,0,0,2,3,46.2,Moderate
+SPJ0418,SpiceJet,YouTube,2026-10-21 04:19,Amazing experience 🙃 missed my connection because of the delay.,Positive Experience,Positive,Low,7,0,2,0,synthetic,5114,0,0,0,2,24.3,Low
+SPJ0419,SpiceJet,Reddit,2026-10-13 13:45,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Medium,8,3,0,0,synthetic,1658,0,0,1,7,29.1,Low
+SPJ0420,SpiceJet,Instagram,2026-10-14 06:09,What is the baggage allowance for this route?,General Enquiry,Neutral,Low,7,2,1,1,synthetic,19981,0,1,0,3,60.9,High
+SPJ0421,SpiceJet,Instagram,2026-10-07 02:19,The ground staff were patient and helpful today.,Customer Service,Negative,Low,5,0,4,0,synthetic,1220,0,0,0,4,39.9,Moderate
+SPJ0422,SpiceJet,Instagram,2026-10-01 00:35,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,2,1,0,0,synthetic,23642,0,1,1,2,4.0,Low
+SPJ0423,SpiceJet,X,2026-10-05 02:03,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Medium,6,2,1,0,synthetic,15438,0,0,1,3,19.7,Low
+SPJ0424,SpiceJet,Reddit,2026-10-02 04:00,"Wow, only three hours late. Truly an on-time champion 🙃",Flight Delay,Negative,High,4,8,0,0,synthetic,301,0,0,2,6,51.1,Moderate
+SPJ0425,SpiceJet,Instagram,2026-10-15 09:12,Where can I find my boarding pass?,Booking/Check-in,Negative,Medium,2,5,0,1,synthetic,14238,0,0,3,3,61.9,High
+SPJ0426,SpiceJet,X,2026-10-11 13:34,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Low,9,1,1,1,synthetic,2023,0,1,2,4,62.6,High
+SPJ0427,SpiceJet,YouTube,2026-10-17 04:42,Can someone explain the process after a flight cancellation?,Flight Cancellation,Negative,Medium,0,0,0,0,synthetic,2274,0,0,0,0,2.0,Low
+SPJ0428,SpiceJet,YouTube,2026-10-04 02:38,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,8,3,2,1,synthetic,885,0,0,1,6,61.5,High
+SPJ0429,SpiceJet,X,2026-10-20 03:56,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,High,9,3,0,0,synthetic,10740,0,0,0,4,27.5,Low
+SPJ0430,SpiceJet,Instagram,2026-10-16 02:38,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,4,1,1,0,synthetic,189942,0,0,0,3,48.5,Moderate
+SPJ0431,SpiceJet,Instagram,2026-10-20 00:28,Where can I check the status of my SpiceJet flight?,General Enquiry,Neutral,Low,93,31,21,1,synthetic,54013,0,0,2,57,92.6,Viral
+SPJ0432,SpiceJet,YouTube,2026-10-14 14:49,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Medium,7,6,0,0,synthetic,5476,0,0,1,7,29.7,Low
+SPJ0433,SpiceJet,Instagram,2026-10-08 02:59,I contacted support twice and still have no resolution.,Customer Service,Negative,Medium,4,0,3,0,synthetic,908,0,1,0,2,19.1,Low
+SPJ0434,SpiceJet,Reddit,2026-10-14 03:35,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,3,1,1,0,synthetic,1343,0,0,0,1,27.2,Low
+SPJ0435,SpiceJet,Instagram,2026-10-13 16:21,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,6,1,1,0,synthetic,16245,0,1,0,4,15.8,Low
+SPJ0436,SpiceJet,Instagram,2026-10-04 19:11,Cancellation message came at the last minute. What are my options?,Flight Cancellation,Negative,High,7,3,0,1,synthetic,6265,1,1,1,5,80.4,Viral
+SPJ0437,SpiceJet,Instagram,2026-10-03 03:09,The departure time keeps changing in the app.,Flight Delay,Negative,High,4,1,0,0,synthetic,3780,0,1,1,1,3.2,Low
+SPJ0438,SpiceJet,YouTube,2026-10-14 15:44,How can I check the status of my ticket refund?,Refund,Negative,Low,100,11,16,1,synthetic,429,0,1,2,52,80.2,Viral
+SPJ0439,SpiceJet,Instagram,2026-10-02 23:36,I contacted support twice and still have no resolution.,Customer Service,Negative,Low,12,2,0,1,synthetic,2171,0,0,1,7,77.4,High
+SPJ0440,SpiceJet,Instagram,2026-10-03 02:34,Can I change the passenger name after booking?,Booking/Check-in,Neutral,Low,3,2,0,0,synthetic,246,0,0,1,2,9.1,Low
+SPJ0441,SpiceJet,X,2026-10-02 12:01,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Low,31,17,6,1,synthetic,125510,0,1,0,17,90.8,Viral
+SPJ0442,SpiceJet,Instagram,2026-10-14 01:34,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,2,0,0,0,synthetic,6075,0,0,1,1,2.2,Low
+SPJ0443,SpiceJet,Instagram,2026-10-20 11:16,The ground staff were patient and helpful today.,Customer Service,Negative,Low,3,3,0,0,synthetic,8606,0,0,1,3,36.7,Moderate
+SPJ0444,SpiceJet,Instagram,2026-10-11 10:29,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,High,4,1,6,0,synthetic,2389,0,0,2,4,53.4,Moderate
+SPJ0445,SpiceJet,Instagram,2026-10-04 04:49,Can someone explain the process after a flight cancellation?,Flight Cancellation,Negative,High,60,27,13,1,synthetic,941,0,1,0,39,84.4,Viral
+SPJ0446,SpiceJet,Instagram,2026-10-11 18:22,Nobody is responding to my complaint about the flight.,Customer Service,Negative,Low,8,3,1,0,synthetic,4032,0,1,0,8,55.1,Moderate
+SPJ0447,SpiceJet,Reddit,2026-10-11 03:05,What time does boarding usually close?,General Enquiry,Neutral,Low,94,9,25,1,synthetic,738,0,1,2,66,87.5,Viral
+SPJ0448,SpiceJet,Instagram,2026-10-13 11:03,Can I change the passenger name after booking?,Booking/Check-in,Neutral,Low,4,0,0,0,synthetic,828,0,1,0,3,2.4,Low
+SPJ0449,SpiceJet,X,2026-10-10 02:16,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,4,2,0,1,synthetic,9621,0,0,2,1,63.0,High
+SPJ0450,SpiceJet,X,2026-10-12 04:11,Can I change the passenger name after booking?,Booking/Check-in,Neutral,Low,8,2,3,0,synthetic,4633,0,0,0,8,48.8,Moderate
+SPJ0451,SpiceJet,Instagram,2026-10-07 19:41,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,High,15,2,0,1,synthetic,5517,0,0,4,4,74.3,High
+SPJ0452,SpiceJet,Instagram,2026-10-20 00:42,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,72,38,20,1,synthetic,2429,0,0,1,81,92.0,Viral
+SPJ0453,SpiceJet,Instagram,2026-10-12 07:00,The staff helped me understand the rebooking options.,Customer Service,Negative,Medium,1,0,0,1,synthetic,1813,0,1,0,1,60.8,High
+SPJ0454,SpiceJet,Reddit,2026-10-07 12:38,The departure time keeps changing in the app.,Flight Delay,Negative,High,3,0,0,0,synthetic,801,0,0,2,2,17.1,Low
+SPJ0455,SpiceJet,Instagram,2026-10-01 01:24,The departure time keeps changing in the app.,Flight Delay,Negative,High,8,7,0,0,synthetic,17119,0,0,1,4,52.2,Moderate
+SPJ0456,SpiceJet,X,2026-10-15 06:04,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Medium,3,2,5,0,synthetic,433,0,0,2,5,12.9,Low
+SPJ0457,SpiceJet,Reddit,2026-10-08 23:35,What time does boarding usually close?,General Enquiry,Neutral,Medium,5,6,1,1,synthetic,717,0,0,1,10,65.6,High
+SPJ0458,SpiceJet,X,2026-10-06 05:30,Please clarify the expected refund process for my booking.,Refund,Negative,Medium,1,6,0,0,synthetic,3181,0,0,0,2,33.4,Moderate
+SPJ0459,SpiceJet,YouTube,2026-10-11 01:35,Good experience with the crew on today's flight.,Positive Experience,Positive,Low,4,10,0,1,synthetic,3587,0,1,0,7,63.7,High
+SPJ0460,SpiceJet,X,2026-10-11 04:30,The website is showing an error when I enter my booking details.,Booking/Check-in,Neutral,Low,5,3,1,0,synthetic,1755,0,0,0,2,12.6,Low
+SPJ0461,SpiceJet,Instagram,2026-10-17 20:51,Can I change the passenger name after booking?,Booking/Check-in,Neutral,Low,5,0,0,0,synthetic,45405,0,0,1,1,11.1,Low
+SPJ0462,SpiceJet,YouTube,2026-10-12 09:27,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Medium,1,2,1,0,synthetic,3466,0,1,0,0,4.2,Low
+SPJ0463,SpiceJet,Instagram,2026-10-15 17:17,How can I get assistance for a passenger who needs extra support?,General Enquiry,Neutral,Low,4,0,0,1,synthetic,1814,0,0,1,3,76.3,High
+SPJ0464,SpiceJet,X,2026-10-14 14:07,"My bag was delivered safely, thank you to the ground team.",Baggage Issue,Negative,Low,11,2,0,0,synthetic,295,0,1,1,6,26.5,Low
+SPJ0465,SpiceJet,YouTube,2026-10-18 20:16,Can I change the passenger name after booking?,Booking/Check-in,Negative,Low,5,1,1,0,synthetic,1572,0,0,0,6,13.7,Low
+SPJ0466,SpiceJet,X,2026-10-01 03:07,The staff helped me understand the rebooking options.,Customer Service,Negative,Medium,13,0,0,1,synthetic,68814,0,0,2,7,62.7,High
+SPJ0467,SpiceJet,Instagram,2026-10-08 21:39,Nobody is responding to my complaint about the flight.,Customer Service,Negative,Low,92,29,29,1,synthetic,9239,0,1,2,87,89.0,Viral
+SPJ0468,SpiceJet,X,2026-10-16 00:33,What is the baggage allowance for this route?,General Enquiry,Neutral,Low,4,4,1,0,synthetic,162,0,0,1,4,23.1,Low
+SPJ0469,SpiceJet,YouTube,2026-10-03 23:00,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Medium,10,5,0,0,synthetic,297,0,1,2,4,12.8,Low
+SPJ0470,SpiceJet,YouTube,2026-10-10 06:42,I am still waiting for my refund after the cancellation.,Refund,Negative,Medium,2,3,1,0,synthetic,2364,0,0,1,5,27.3,Low
+SPJ0471,SpiceJet,X,2026-10-09 10:07,My checked-in bag has not arrived at the carousel.,Baggage Issue,Negative,Medium,2,1,0,0,synthetic,17400,0,0,1,2,15.5,Low
+SPJ0472,SpiceJet,Instagram,2026-10-17 22:02,I am still waiting for my refund after the cancellation.,Refund,Negative,Medium,2,0,1,0,synthetic,3842,0,0,0,1,2.4,Low
+SPJ0473,SpiceJet,Instagram,2026-10-21 05:22,The departure time keeps changing in the app.,Flight Delay,Negative,Low,6,6,0,0,synthetic,3886,0,0,0,5,42.5,Moderate
+SPJ0474,SpiceJet,YouTube,2026-10-03 05:35,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,6,1,0,0,synthetic,8786,0,0,0,1,25.4,Low
+SPJ0475,SpiceJet,Instagram,2026-10-05 12:01,Several passengers are posting that their flight was cancelled with very little notice.,Flight Cancellation,Negative,High,8,1,0,0,synthetic,17937,0,0,1,2,38.6,Moderate
+SPJ0476,SpiceJet,Instagram,2026-10-17 06:12,My suitcase was damaged during the journey. How do I report it?,Baggage Issue,Negative,Medium,5,0,1,0,synthetic,1241,0,0,0,2,3.9,Low
+SPJ0477,SpiceJet,Instagram,2026-10-04 16:04,How can I check the status of my ticket refund?,Refund,Negative,High,5,2,0,0,synthetic,5791,0,0,0,4,17.6,Low
+SPJ0478,SpiceJet,Instagram,2026-10-11 10:27,"Wow, only three hours late. Truly an on-time champion 🙃",Booking/Check-in,Negative,Low,4,3,1,0,synthetic,842,0,1,1,4,37.2,Moderate
+SPJ0479,SpiceJet,X,2026-10-20 19:56,Can I change the passenger name after booking?,Booking/Check-in,Neutral,Medium,5,7,2,1,synthetic,2013,0,0,1,3,73.0,High
+SPJ0480,SpiceJet,YouTube,2026-10-21 11:33,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,Medium,102,7,17,0,synthetic,4497,0,0,1,44,57.7,Moderate
+SPJ0481,SpiceJet,Instagram,2026-10-20 22:45,The baggage belt stopped and there is no update yet.,Baggage Issue,Neutral,Low,7,2,1,0,synthetic,442,0,1,0,4,34.4,Moderate
+SPJ0482,SpiceJet,YouTube,2026-10-03 19:44,My SpiceJet flight was cancelled and I need help with the next steps.,Flight Cancellation,Negative,High,18,1,0,0,synthetic,2523,0,0,1,7,17.2,Low
+SPJ0483,SpiceJet,YouTube,2026-10-04 03:12,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Low,5,1,1,0,synthetic,3079,0,0,0,2,7.7,Low
+SPJ0484,SpiceJet,Reddit,2026-10-04 16:42,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,High,0,0,0,0,synthetic,2610,0,0,1,0,2.1,Low
+SPJ0485,SpiceJet,X,2026-10-17 03:48,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,30,8,20,1,synthetic,1818,0,1,2,33,88.8,Viral
+SPJ0486,SpiceJet,X,2026-10-04 18:13,My checked-in bag has not arrived at the carousel.,Baggage Issue,Negative,High,4,9,0,0,synthetic,6737,0,0,0,2,6.7,Low
+SPJ0487,SpiceJet,Instagram,2026-10-10 00:35,Amazing experience 🙃 missed my connection because of the delay.,Refund,Negative,Medium,5,7,0,0,synthetic,2659,0,0,1,7,10.8,Low
+SPJ0488,SpiceJet,Instagram,2026-10-18 04:27,Can someone explain the process after a flight cancellation?,Flight Cancellation,Negative,High,0,3,2,0,synthetic,24639,0,0,0,2,38.4,Moderate
+SPJ0489,SpiceJet,YouTube,2026-10-11 08:04,Where can I find my boarding pass?,Booking/Check-in,Neutral,Medium,5,2,1,0,synthetic,715,0,0,2,2,7.3,Low
+SPJ0490,SpiceJet,YouTube,2026-10-20 18:03,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Low,7,0,3,0,synthetic,430,0,0,1,6,2.1,Low
+SPJ0491,SpiceJet,YouTube,2026-10-11 11:20,The staff helped me understand the rebooking options.,Customer Service,Negative,Low,2,1,1,0,synthetic,3982,0,1,0,2,9.6,Low
+SPJ0492,SpiceJet,Reddit,2026-10-08 23:23,Nobody is responding to my complaint about the flight.,Customer Service,Negative,Low,7,2,0,0,synthetic,243,0,0,1,3,8.8,Low
+SPJ0493,SpiceJet,YouTube,2026-10-21 08:03,I contacted support twice and still have no resolution.,Customer Service,Negative,Low,4,3,2,0,synthetic,333,0,1,0,7,46.1,Moderate
+SPJ0494,SpiceJet,Instagram,2026-10-12 11:42,My suitcase was damaged during the journey. How do I report it?,Baggage Issue,Negative,High,2,2,1,0,synthetic,11118,0,1,2,4,33.7,Moderate
+SPJ0495,SpiceJet,Instagram,2026-10-04 21:04,Good experience with the crew on today's flight.,Positive Experience,Positive,Low,8,3,0,0,synthetic,5731,0,0,0,4,34.0,Moderate
+SPJ0496,SpiceJet,Instagram,2026-10-14 07:45,Can I change the passenger name after booking?,Booking/Check-in,Neutral,Low,71,13,29,1,synthetic,96,0,0,0,30,78.5,High
+SPJ0497,SpiceJet,Instagram,2026-10-17 05:37,How can I check the status of my ticket refund?,Refund,Negative,Low,7,6,1,0,synthetic,885,0,0,3,2,26.9,Low
+SPJ0498,SpiceJet,Instagram,2026-10-18 14:35,The website is showing an error when I enter my booking details.,Booking/Check-in,Neutral,Low,11,7,0,0,synthetic,684,0,0,0,8,32.2,Moderate
+SPJ0499,SpiceJet,Reddit,2026-10-01 02:51,My suitcase was damaged during the journey. How do I report it?,Baggage Issue,Negative,High,11,6,1,1,synthetic,4331,0,0,1,8,64.6,High
+SPJ0500,SpiceJet,Instagram,2026-10-03 06:37,Please clarify the expected refund process for my booking.,Refund,Negative,High,8,0,1,0,synthetic,24184,0,0,1,7,26.6,Low
+SPJ0501,SpiceJet,Instagram,2026-10-14 04:49,I contacted support twice and still have no resolution.,Customer Service,Negative,Low,4,1,0,0,synthetic,54308,0,0,0,1,11.5,Low
+SPJ0502,SpiceJet,YouTube,2026-10-16 13:55,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,1,4,6,0,synthetic,5292,0,1,0,4,12.5,Low
+SPJ0503,SpiceJet,Reddit,2026-10-14 16:56,What is the baggage allowance for this route?,General Enquiry,Neutral,Low,2,4,4,1,synthetic,391,1,0,2,6,71.6,High
+SPJ0504,SpiceJet,Instagram,2026-10-09 00:56,Please clarify the expected refund process for my booking.,Refund,Negative,Medium,7,0,0,1,synthetic,1483,0,1,1,5,65.8,High
+SPJ0505,SpiceJet,X,2026-10-16 19:52,Where can I find my boarding pass?,Booking/Check-in,Neutral,Low,15,2,0,0,synthetic,1067,0,0,1,6,8.3,Low
+SPJ0506,SpiceJet,X,2026-10-13 03:54,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Low,2,12,0,0,synthetic,7827,0,1,2,8,55.5,Moderate
+SPJ0507,SpiceJet,YouTube,2026-10-20 10:41,My checked-in bag has not arrived at the carousel.,Baggage Issue,Negative,Medium,9,1,0,0,synthetic,11461,0,0,1,3,19.6,Low
+SPJ0508,SpiceJet,Reddit,2026-10-08 17:18,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,4,1,0,0,synthetic,56,0,0,0,0,6.0,Low
+SPJ0509,SpiceJet,Instagram,2026-10-16 19:55,How can I check the status of my ticket refund?,Refund,Negative,Medium,7,4,2,0,synthetic,7337,0,0,0,6,35.0,Moderate
+SPJ0510,SpiceJet,X,2026-10-04 00:27,Amazing experience 🙃 missed my connection because of the delay.,Flight Delay,Negative,Medium,2,0,2,1,synthetic,32115,0,0,1,2,80.8,Viral
+SPJ0511,SpiceJet,Instagram,2026-10-16 09:00,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,High,1,3,0,0,synthetic,4893,0,1,4,0,4.7,Low
+SPJ0512,SpiceJet,X,2026-10-16 08:45,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,12,1,5,0,synthetic,348128,0,0,2,13,58.9,Moderate
+SPJ0513,SpiceJet,YouTube,2026-10-06 07:54,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,15,0,1,0,synthetic,4179,0,0,1,5,52.8,Moderate
+SPJ0514,SpiceJet,Instagram,2026-10-02 07:04,My SpiceJet flight was cancelled and I need help with the next steps.,Flight Cancellation,Negative,High,10,6,0,0,synthetic,3307,0,0,0,6,37.0,Moderate
+SPJ0515,SpiceJet,Instagram,2026-10-21 20:23,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,High,1,7,2,0,synthetic,7350,0,0,2,6,29.8,Low
+SPJ0516,SpiceJet,Reddit,2026-10-02 14:33,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Low,1,2,0,0,synthetic,374,0,1,1,2,11.5,Low
+SPJ0517,SpiceJet,YouTube,2026-10-10 20:04,My suitcase was damaged during the journey. How do I report it?,Baggage Issue,Negative,Medium,18,2,0,0,synthetic,436,0,1,1,12,34.8,Moderate
+SPJ0518,SpiceJet,Instagram,2026-10-01 00:33,The staff helped me understand the rebooking options.,Customer Service,Negative,Low,7,7,1,0,synthetic,5666,0,0,0,7,22.2,Low
+SPJ0519,SpiceJet,Reddit,2026-10-09 18:23,The departure time keeps changing in the app.,Flight Delay,Negative,Medium,12,8,1,0,synthetic,3909,0,0,2,7,54.8,Moderate
+SPJ0520,SpiceJet,X,2026-10-18 05:45,Bhai flight ka update kab milega? Gate pe koi bata hi nahi raha.,Positive Experience,Positive,Low,1,1,0,1,synthetic,6442,0,1,1,2,61.3,High
+SPJ0521,SpiceJet,YouTube,2026-10-11 12:56,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Low,7,0,0,0,synthetic,7168,0,0,1,2,17.3,Low
+SPJ0522,SpiceJet,YouTube,2026-10-06 00:49,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,Medium,4,1,0,0,synthetic,1187,0,0,0,3,24.6,Low
+SPJ0523,SpiceJet,Instagram,2026-10-09 06:36,Crew was kind and helped an elderly passenger. That meant a lot.,Flight Delay,Negative,Medium,11,1,0,0,synthetic,30118,0,0,4,3,47.0,Moderate
+SPJ0524,SpiceJet,Reddit,2026-10-02 22:32,Where can I find my boarding pass?,Booking/Check-in,Neutral,Medium,10,3,2,1,synthetic,2392,0,0,0,7,75.6,High
+SPJ0525,SpiceJet,Instagram,2026-10-13 11:11,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,7,0,2,0,synthetic,6615,0,0,1,3,47.5,Moderate
+SPJ0526,SpiceJet,X,2026-10-01 02:04,"My bag was delivered safely, thank you to the ground team.",Baggage Issue,Negative,High,11,2,3,1,synthetic,25686,0,1,1,8,69.8,High
+SPJ0527,SpiceJet,Instagram,2026-10-08 08:12,What is the baggage allowance for this route?,General Enquiry,Neutral,Medium,71,29,16,1,synthetic,1093,1,0,0,91,81.3,Viral
+SPJ0528,SpiceJet,YouTube,2026-10-02 06:35,What time does boarding usually close?,General Enquiry,Neutral,Medium,6,1,0,0,synthetic,1551,0,1,0,2,22.7,Low
+SPJ0529,SpiceJet,Instagram,2026-10-06 00:55,Good experience with the crew on today's flight.,Positive Experience,Positive,Low,46,23,7,1,synthetic,90015,0,0,0,46,94.3,Viral
+SPJ0530,SpiceJet,Instagram,2026-10-02 09:59,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,High,82,26,13,1,synthetic,7445,0,0,1,92,93.7,Viral
+SPJ0531,SpiceJet,Reddit,2026-10-20 11:42,Crew was kind and helped an elderly passenger. That meant a lot.,Customer Service,Negative,Low,32,24,21,1,synthetic,12347,0,1,0,33,85.9,Viral
+SPJ0532,SpiceJet,YouTube,2026-10-17 05:06,The ground staff were patient and helpful today.,Customer Service,Negative,Low,7,1,0,0,synthetic,6767,0,1,0,3,11.6,Low
+SPJ0533,SpiceJet,YouTube,2026-10-20 11:37,Bhai flight ka update kab milega? Gate pe koi bata hi nahi raha.,Baggage Issue,Negative,High,8,1,1,1,synthetic,357,0,1,3,4,71.2,High
+SPJ0534,SpiceJet,X,2026-10-15 08:16,The ground staff were patient and helpful today.,Customer Service,Negative,Low,3,3,0,0,synthetic,10578,0,1,0,3,40.0,Moderate
+SPJ0535,SpiceJet,X,2026-10-11 10:06,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Medium,2,4,0,0,synthetic,885,0,1,1,4,54.1,Moderate
+SPJ0536,SpiceJet,X,2026-10-04 15:43,My SpiceJet flight was cancelled and I need help with the next steps.,Flight Cancellation,Negative,Medium,6,1,2,0,synthetic,5711,0,0,0,2,12.9,Low
+SPJ0537,SpiceJet,Instagram,2026-10-21 04:55,The website is showing an error when I enter my booking details.,Booking/Check-in,Neutral,Low,1,4,0,0,synthetic,1780,0,1,0,3,31.4,Moderate
+SPJ0538,SpiceJet,YouTube,2026-10-20 06:25,The departure time keeps changing in the app.,Flight Delay,Negative,Medium,5,0,0,0,synthetic,2056,0,0,1,0,13.5,Low
+SPJ0539,SpiceJet,X,2026-10-09 17:31,The departure time keeps changing in the app.,Flight Delay,Negative,Medium,8,1,0,1,synthetic,8081,0,1,3,5,70.5,High
+SPJ0540,SpiceJet,Instagram,2026-10-05 17:42,Landed safely and the staff were courteous.,Positive Experience,Positive,Medium,4,0,2,0,synthetic,4421,0,0,3,2,7.7,Low
+SPJ0541,SpiceJet,Instagram,2026-10-09 03:14,What is the baggage allowance for this route?,General Enquiry,Neutral,Low,6,6,1,1,synthetic,3810,0,0,0,4,61.8,High
+SPJ0542,SpiceJet,X,2026-10-09 06:38,The website is showing an error when I enter my booking details.,Booking/Check-in,Neutral,Low,6,5,1,0,synthetic,615,0,0,1,4,33.5,Moderate
+SPJ0543,SpiceJet,YouTube,2026-10-20 06:07,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,6,2,0,0,synthetic,494,0,0,0,4,10.1,Low
+SPJ0544,SpiceJet,YouTube,2026-10-02 09:41,Where can I check the status of my SpiceJet flight?,General Enquiry,Neutral,Medium,5,2,2,1,synthetic,15839,1,1,0,3,67.0,High
+SPJ0545,SpiceJet,X,2026-10-14 06:59,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,1,4,0,0,synthetic,43121,0,0,0,2,38.7,Moderate
+SPJ0546,SpiceJet,Reddit,2026-10-17 03:20,Please clarify the expected refund process for my booking.,Refund,Negative,Low,6,0,1,0,synthetic,1095,0,1,1,2,6.9,Low
+SPJ0547,SpiceJet,YouTube,2026-10-17 00:18,My suitcase was damaged during the journey. How do I report it?,Baggage Issue,Negative,Low,9,3,1,0,synthetic,6388,0,1,0,7,54.5,Moderate
+SPJ0548,SpiceJet,Instagram,2026-10-05 01:22,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,High,7,2,1,0,synthetic,12193,0,1,0,3,18.9,Low
+SPJ0549,SpiceJet,YouTube,2026-10-09 16:01,The ground staff were patient and helpful today.,Customer Service,Negative,Low,60,27,12,1,synthetic,676,0,1,1,64,87.9,Viral
+SPJ0550,SpiceJet,Instagram,2026-10-08 04:23,Please clarify the expected refund process for my booking.,Refund,Negative,Medium,50,18,16,1,synthetic,532,0,0,0,35,86.1,Viral
+SPJ0551,SpiceJet,Reddit,2026-10-09 13:07,My refund has not arrived and customer support has not replied.,Refund,Negative,High,11,0,0,0,synthetic,740,0,0,2,5,31.9,Moderate
+SPJ0552,SpiceJet,X,2026-10-02 19:53,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Low,10,1,0,1,synthetic,652,0,0,2,6,78.3,High
+SPJ0553,SpiceJet,Instagram,2026-10-02 17:59,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,0,1,1,0,synthetic,2170,0,0,1,1,3.6,Low
+SPJ0554,SpiceJet,Instagram,2026-10-01 12:10,Where can I check the status of my SpiceJet flight?,General Enquiry,Neutral,Low,3,5,2,0,synthetic,410,0,0,1,5,5.2,Low
+SPJ0555,SpiceJet,X,2026-10-21 07:14,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,High,6,1,0,1,synthetic,3763,0,0,1,1,64.8,High
+SPJ0556,SpiceJet,Instagram,2026-10-09 18:03,Cancellation message came at the last minute. What are my options?,Flight Cancellation,Negative,Medium,52,9,26,1,synthetic,2507,0,0,2,56,87.7,Viral
+SPJ0557,SpiceJet,YouTube,2026-10-05 18:53,Our flight was cancelled and the queue for assistance is very long.,Flight Cancellation,Negative,Medium,6,2,2,0,synthetic,4092,0,0,0,7,28.3,Low
+SPJ0558,SpiceJet,YouTube,2026-10-17 18:01,My refund has not arrived and customer support has not replied.,Refund,Negative,Low,3,4,0,0,synthetic,815,0,0,2,1,3.7,Low
+SPJ0559,SpiceJet,Reddit,2026-10-11 09:06,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Low,9,2,2,0,synthetic,162,0,0,0,8,43.0,Moderate
+SPJ0560,SpiceJet,Instagram,2026-10-08 15:43,My refund has not arrived and customer support has not replied.,Refund,Negative,Medium,5,1,0,0,synthetic,3382,0,0,3,1,29.2,Low
+SPJ0561,SpiceJet,Reddit,2026-10-03 09:45,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Low,11,13,0,1,synthetic,107228,0,1,1,19,95.5,Viral
+SPJ0562,SpiceJet,Instagram,2026-10-09 02:33,Our flight was cancelled and the queue for assistance is very long.,Flight Cancellation,Negative,Medium,8,2,1,0,synthetic,6246,0,0,2,8,45.0,Moderate
+SPJ0563,SpiceJet,Reddit,2026-10-14 14:03,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Medium,9,1,0,0,synthetic,54,0,0,1,3,35.9,Moderate
+SPJ0564,SpiceJet,Instagram,2026-10-14 02:12,Can I change the passenger name after booking?,Booking/Check-in,Neutral,Low,6,0,0,0,synthetic,3587,0,0,3,2,8.7,Low
+SPJ0565,SpiceJet,YouTube,2026-10-09 05:00,The staff helped me understand the rebooking options.,Customer Service,Negative,Low,79,6,15,1,synthetic,155832,0,1,0,63,99.3,Viral
+SPJ0566,SpiceJet,YouTube,2026-10-13 20:58,The staff helped me understand the rebooking options.,Customer Service,Negative,Low,3,7,4,0,synthetic,2520,0,0,1,8,18.4,Low
+SPJ0567,SpiceJet,Instagram,2026-10-17 02:54,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Low,8,8,0,0,synthetic,18552,0,0,0,2,32.6,Moderate
+SPJ0568,SpiceJet,Instagram,2026-10-20 12:52,The departure time keeps changing in the app.,Flight Delay,Negative,Medium,2,1,0,1,synthetic,32814,0,1,1,2,64.3,High
+SPJ0569,SpiceJet,Instagram,2026-10-12 02:18,"My bag was delivered safely, thank you to the ground team.",Baggage Issue,Negative,Medium,4,2,2,1,synthetic,36561,0,0,2,7,62.1,High
+SPJ0570,SpiceJet,Instagram,2026-10-05 18:48,The website is showing an error when I enter my booking details.,Booking/Check-in,Neutral,Low,2,3,0,0,synthetic,13504,0,0,1,1,49.9,Moderate
+SPJ0571,SpiceJet,Instagram,2026-10-03 17:15,My suitcase was damaged during the journey. How do I report it?,Baggage Issue,Negative,Medium,5,2,0,0,synthetic,4672,0,0,2,2,23.3,Low
+SPJ0572,SpiceJet,X,2026-10-04 07:28,Good experience with the crew on today's flight.,Positive Experience,Positive,Low,11,1,0,0,synthetic,3086,0,0,0,6,32.7,Moderate
+SPJ0573,SpiceJet,YouTube,2026-10-01 05:24,My refund has not arrived and customer support has not replied.,Refund,Negative,Medium,4,5,0,0,synthetic,1357,0,0,1,3,25.2,Low
+SPJ0574,SpiceJet,X,2026-10-12 17:17,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,4,1,0,0,synthetic,4700,0,0,1,4,30.6,Moderate
+SPJ0575,SpiceJet,X,2026-10-05 11:04,Good experience with the crew on today's flight.,Positive Experience,Positive,Low,5,1,3,0,synthetic,7181,0,0,0,7,58.3,Moderate
+SPJ0576,SpiceJet,Instagram,2026-10-05 17:56,I am still waiting for my refund after the cancellation.,Refund,Negative,Low,6,1,0,0,synthetic,542,0,1,1,1,35.4,Moderate
+SPJ0577,SpiceJet,Reddit,2026-10-16 05:04,What time does boarding usually close?,General Enquiry,Neutral,Low,6,1,2,0,synthetic,539,0,0,2,3,12.1,Low
+SPJ0578,SpiceJet,X,2026-10-07 17:07,Where can I find my boarding pass?,Booking/Check-in,Neutral,Low,5,0,1,0,synthetic,3764,0,1,1,3,23.7,Low
+SPJ0579,SpiceJet,Reddit,2026-10-18 09:34,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,5,1,4,1,synthetic,2064,0,1,2,9,76.7,High
+SPJ0580,SpiceJet,YouTube,2026-10-03 21:04,My suitcase was damaged during the journey. How do I report it?,Baggage Issue,Negative,Medium,5,4,0,0,synthetic,1300,0,1,0,5,40.1,Moderate
+SPJ0581,SpiceJet,YouTube,2026-10-08 04:01,I am still waiting for my refund after the cancellation.,Refund,Negative,Low,2,5,0,0,synthetic,6079,0,0,0,1,20.0,Low
+SPJ0582,SpiceJet,Instagram,2026-10-02 01:59,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Low,4,2,0,0,synthetic,2739,0,0,1,2,17.9,Low
+SPJ0583,SpiceJet,YouTube,2026-10-12 06:06,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Low,11,2,0,1,synthetic,2659,0,1,4,10,80.6,Viral
+SPJ0584,SpiceJet,X,2026-10-03 14:55,"My bag was delivered safely, thank you to the ground team.",Baggage Issue,Negative,Medium,5,0,0,0,synthetic,720,0,1,2,2,24.4,Low
+SPJ0585,SpiceJet,X,2026-10-06 00:58,How can I get assistance for a passenger who needs extra support?,General Enquiry,Neutral,Low,8,0,0,0,synthetic,1360,0,1,0,2,20.3,Low
+SPJ0586,SpiceJet,Instagram,2026-10-16 10:40,Can I change the passenger name after booking?,Booking/Check-in,Neutral,Low,7,3,1,0,synthetic,4342,0,1,1,1,22.5,Low
+SPJ0587,SpiceJet,Reddit,2026-10-19 11:44,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Low,0,1,0,0,synthetic,936,0,0,0,0,2.7,Low
+SPJ0588,SpiceJet,Instagram,2026-10-12 10:54,My checked-in bag has not arrived at the carousel.,Baggage Issue,Negative,High,2,2,0,0,synthetic,189,0,0,2,3,11.4,Low
+SPJ0589,SpiceJet,X,2026-10-21 06:27,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,High,13,0,0,0,synthetic,14275,0,1,2,2,42.3,Moderate
+SPJ0590,SpiceJet,Instagram,2026-10-16 21:21,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,High,4,4,0,0,synthetic,1197,0,0,1,1,16.0,Low
+SPJ0591,SpiceJet,X,2026-10-16 19:28,What is the baggage allowance for this route?,General Enquiry,Neutral,Low,3,2,0,0,synthetic,1145,0,0,1,2,32.4,Moderate
+SPJ0592,SpiceJet,X,2026-10-21 19:15,I am still waiting for my refund after the cancellation.,Refund,Negative,Medium,8,5,1,0,synthetic,18570,0,0,0,3,36.0,Moderate
+SPJ0593,SpiceJet,Instagram,2026-10-02 20:47,My suitcase was damaged during the journey. How do I report it?,Baggage Issue,Negative,Medium,102,30,14,1,synthetic,35319,0,1,1,107,92.9,Viral
+SPJ0594,SpiceJet,Instagram,2026-10-05 21:01,Can I change the passenger name after booking?,Booking/Check-in,Neutral,Low,8,2,7,0,synthetic,1183,0,1,1,4,50.7,Moderate
+SPJ0595,SpiceJet,X,2026-10-10 04:18,Amazing experience 🙃 missed my connection because of the delay.,Flight Delay,Negative,High,2,0,0,0,synthetic,2435,0,0,1,0,2.0,Low
+SPJ0596,SpiceJet,Instagram,2026-10-13 23:38,Cancellation message came at the last minute. What are my options?,Flight Cancellation,Negative,Medium,96,32,5,0,synthetic,582,0,1,0,34,58.6,Moderate
+SPJ0597,SpiceJet,YouTube,2026-10-21 19:12,Amazing experience 🙃 missed my connection because of the delay.,Customer Service,Negative,Low,9,0,0,0,synthetic,6145,0,1,3,5,29.4,Low
+SPJ0598,SpiceJet,X,2026-10-03 01:54,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Low,1,7,1,0,synthetic,13893,0,0,1,2,22.8,Low
+SPJ0599,SpiceJet,YouTube,2026-10-05 19:36,What is the baggage allowance for this route?,General Enquiry,Neutral,Medium,5,0,1,1,synthetic,2436,0,1,0,4,63.3,High
+SPJ0600,SpiceJet,Instagram,2026-10-07 06:16,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Low,2,2,0,0,synthetic,21627,0,1,1,2,5.2,Low
+SPJ0601,SpiceJet,YouTube,2026-10-15 01:55,Please clarify the expected refund process for my booking.,Refund,Negative,Medium,1,2,1,0,synthetic,7098,0,1,1,2,4.8,Low
+SPJ0602,SpiceJet,Instagram,2026-10-20 23:39,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Low,5,4,0,0,synthetic,2665,0,1,2,2,15.7,Low
+SPJ0603,SpiceJet,X,2026-10-20 17:02,How can I get assistance for a passenger who needs extra support?,General Enquiry,Neutral,Medium,0,0,2,0,synthetic,10788,0,1,1,0,26.7,Low
+SPJ0604,SpiceJet,Instagram,2026-10-16 16:48,I contacted support twice and still have no resolution.,Customer Service,Positive,Low,6,1,1,0,synthetic,321,0,0,1,5,7.5,Low
+SPJ0605,SpiceJet,Instagram,2026-10-17 05:41,What is the baggage allowance for this route?,General Enquiry,Neutral,Low,11,9,0,0,synthetic,2199,0,0,1,5,50.2,Moderate
+SPJ0606,SpiceJet,Instagram,2026-10-09 17:26,Landed safely and the staff were courteous.,Positive Experience,Positive,Medium,9,4,1,1,synthetic,10022,0,0,0,8,68.0,High
+SPJ0607,SpiceJet,X,2026-10-13 18:51,Crew was kind and helped an elderly passenger. That meant a lot.,Positive Experience,Positive,Low,3,2,1,0,synthetic,3924,0,0,1,1,22.1,Low
+SPJ0608,SpiceJet,Instagram,2026-10-04 14:08,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,High,9,0,0,0,synthetic,53699,0,0,1,4,30.5,Moderate
+SPJ0609,SpiceJet,X,2026-10-11 15:22,Nobody is responding to my complaint about the flight.,Customer Service,Negative,Low,0,4,0,0,synthetic,6113,0,0,0,2,10.6,Low
+SPJ0610,SpiceJet,Reddit,2026-10-07 03:29,My refund has not arrived and customer support has not replied.,Refund,Negative,Medium,2,0,1,0,synthetic,1317,0,0,0,0,2.3,Low
+SPJ0611,SpiceJet,X,2026-10-20 12:07,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Low,77,13,13,1,synthetic,1422,0,0,3,59,94.5,Viral
+SPJ0612,SpiceJet,X,2026-10-08 17:13,The staff helped me understand the rebooking options.,Customer Service,Negative,Low,3,2,0,0,synthetic,3072,0,0,1,2,10.3,Low
+SPJ0613,SpiceJet,X,2026-10-09 06:56,What time does boarding usually close?,General Enquiry,Neutral,Low,5,10,2,0,synthetic,1348,0,1,0,2,6.6,Low
+SPJ0614,SpiceJet,X,2026-10-09 11:00,Where can I check the status of my SpiceJet flight?,General Enquiry,Neutral,Low,2,3,0,1,synthetic,228696,0,0,1,3,70.3,High
+SPJ0615,SpiceJet,Instagram,2026-10-19 22:14,Cancellation message came at the last minute. What are my options?,Flight Cancellation,Negative,Medium,11,1,0,0,synthetic,1780,0,0,1,7,8.5,Low
+SPJ0616,SpiceJet,Reddit,2026-10-20 13:59,I contacted support twice and still have no resolution.,Customer Service,Negative,Low,49,13,24,1,synthetic,2096,0,1,0,39,84.8,Viral
+SPJ0617,SpiceJet,YouTube,2026-10-10 01:15,The staff helped me understand the rebooking options.,Customer Service,Negative,Low,5,0,0,0,synthetic,10702,0,0,0,3,43.1,Moderate
+SPJ0618,SpiceJet,YouTube,2026-10-21 21:50,"My bag was delivered safely, thank you to the ground team.",Baggage Issue,Negative,Medium,3,4,0,0,synthetic,4943,0,0,1,3,39.1,Moderate
+SPJ0619,SpiceJet,X,2026-10-16 21:17,The departure time keeps changing in the app.,Flight Delay,Negative,Medium,2,5,1,0,synthetic,566,0,1,1,2,29.5,Low
+SPJ0620,SpiceJet,X,2026-10-18 18:36,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,2,0,0,0,synthetic,9618,0,0,1,1,4.4,Low
+SPJ0621,SpiceJet,Reddit,2026-10-20 05:31,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,6,4,0,0,synthetic,2119,0,1,1,1,36.1,Moderate
+SPJ0622,SpiceJet,YouTube,2026-10-07 23:35,I am still waiting for my refund after the cancellation.,Refund,Negative,High,3,1,2,0,synthetic,1552,0,0,1,0,21.9,Low
+SPJ0623,SpiceJet,YouTube,2026-10-12 13:31,What time does boarding usually close?,General Enquiry,Neutral,Low,7,1,5,0,synthetic,3789,0,0,0,2,47.4,Moderate
+SPJ0624,SpiceJet,Instagram,2026-10-06 23:40,I am still waiting for my refund after the cancellation.,Refund,Negative,Medium,1,2,0,0,synthetic,3654,0,1,1,1,3.3,Low
+SPJ0625,SpiceJet,Instagram,2026-10-07 12:10,What time does boarding usually close?,General Enquiry,Neutral,Low,101,24,11,1,synthetic,1044,0,1,4,109,94.7,Viral
+SPJ0626,SpiceJet,Instagram,2026-10-10 18:01,Several passengers are posting that their flight was cancelled with very little notice.,Baggage Issue,Negative,Medium,12,2,2,0,synthetic,1451,0,1,0,2,48.2,Moderate
+SPJ0627,SpiceJet,Instagram,2026-10-02 01:41,Good experience with the crew on today's flight.,Positive Experience,Positive,Medium,3,1,1,0,synthetic,3254,0,0,0,2,4.6,Low
+SPJ0628,SpiceJet,Instagram,2026-10-05 12:26,The departure time keeps changing in the app.,Flight Delay,Negative,High,0,2,2,1,synthetic,3148,0,0,2,3,69.6,High
+SPJ0629,SpiceJet,Reddit,2026-10-17 23:52,Can I change the passenger name after booking?,Booking/Check-in,Neutral,Low,101,28,16,1,synthetic,3744,0,1,1,66,88.1,Viral
+SPJ0630,SpiceJet,YouTube,2026-10-04 11:33,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,89,28,20,1,synthetic,17831,0,1,1,94,93.9,Viral
+SPJ0631,SpiceJet,X,2026-10-14 01:29,How can I get assistance for a passenger who needs extra support?,General Enquiry,Neutral,Low,99,27,28,1,synthetic,13003,1,0,0,135,94.9,Viral
+SPJ0632,SpiceJet,Reddit,2026-10-17 01:52,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,3,2,1,0,synthetic,474,0,0,1,3,7.2,Low
+SPJ0633,SpiceJet,Instagram,2026-10-06 12:34,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,High,6,0,1,0,synthetic,20782,0,0,1,1,10.4,Low
+SPJ0634,SpiceJet,Instagram,2026-10-10 14:59,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,High,8,0,0,0,synthetic,3823,0,0,0,5,24.7,Low
+SPJ0635,SpiceJet,Instagram,2026-10-19 10:12,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,9,3,0,0,synthetic,5153,0,0,0,2,34.9,Moderate
+SPJ0636,SpiceJet,X,2026-10-18 13:04,The departure time keeps changing in the app.,Flight Delay,Negative,Low,4,4,1,0,synthetic,1386,0,0,0,3,14.7,Low
+SPJ0637,SpiceJet,Instagram,2026-10-20 07:49,I contacted support twice and still have no resolution.,Customer Service,Negative,Low,0,6,0,0,synthetic,2341,0,1,2,2,27.4,Low
+SPJ0638,SpiceJet,YouTube,2026-10-14 04:40,Nobody is responding to my complaint about the flight.,Customer Service,Negative,Low,9,4,4,0,synthetic,7922,0,1,0,9,17.1,Low
+SPJ0639,SpiceJet,X,2026-10-19 15:07,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,4,6,0,0,synthetic,11123,0,0,2,5,52.7,Moderate
+SPJ0640,SpiceJet,X,2026-10-09 08:49,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,3,3,1,1,synthetic,6882,0,0,1,2,66.1,High
+SPJ0641,SpiceJet,Instagram,2026-10-13 15:09,The ground staff were patient and helpful today.,Customer Service,Negative,Low,86,8,25,1,synthetic,7160,0,1,1,66,88.4,Viral
+SPJ0642,SpiceJet,Instagram,2026-10-15 00:17,Good experience with the crew on today's flight.,Positive Experience,Positive,Low,1,3,0,0,synthetic,4162,0,0,1,2,2.1,Low
+SPJ0643,SpiceJet,Instagram,2026-10-21 12:11,The departure time keeps changing in the app.,Flight Delay,Negative,Low,0,1,1,0,synthetic,861,0,0,1,0,8.1,Low
+SPJ0644,SpiceJet,Instagram,2026-10-08 17:35,Crew was kind and helped an elderly passenger. That meant a lot.,Flight Cancellation,Negative,Medium,6,7,0,0,synthetic,2447,0,0,1,5,13.8,Low
+SPJ0645,SpiceJet,Instagram,2026-10-19 08:54,Where can I find my boarding pass?,Booking/Check-in,Neutral,Medium,2,5,3,1,synthetic,3491,0,1,1,2,78.7,High
+SPJ0646,SpiceJet,YouTube,2026-10-11 16:41,Good experience with the crew on today's flight.,Positive Experience,Positive,Low,4,4,0,0,synthetic,294,1,0,0,4,5.3,Low
+SPJ0647,SpiceJet,X,2026-10-03 04:32,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Low,4,0,2,0,synthetic,4912,0,0,1,2,2.6,Low
+SPJ0648,SpiceJet,YouTube,2026-10-14 18:23,How can I check the status of my ticket refund?,Refund,Negative,Low,6,2,1,0,synthetic,1635,0,0,2,2,34.3,Moderate
+SPJ0649,SpiceJet,Reddit,2026-10-21 14:28,Nobody is responding to my complaint about the flight.,Customer Service,Negative,Low,8,0,2,0,synthetic,105,0,0,1,7,20.8,Low
+SPJ0650,SpiceJet,Instagram,2026-10-10 12:30,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,2,5,2,0,synthetic,1054,0,0,0,4,2.9,Low
+SPJ0651,SpiceJet,X,2026-10-12 12:35,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,Medium,3,1,0,0,synthetic,3529,0,0,0,1,37.6,Moderate
+SPJ0652,SpiceJet,Reddit,2026-10-20 11:21,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,5,4,1,0,synthetic,20,0,0,2,2,2.5,Low
+SPJ0653,SpiceJet,X,2026-10-20 07:41,I contacted support twice and still have no resolution.,Customer Service,Negative,Medium,8,0,1,0,synthetic,5133,0,0,1,2,2.1,Low
+SPJ0654,SpiceJet,X,2026-10-09 09:38,Cancellation message came at the last minute. What are my options?,Flight Cancellation,Negative,Medium,2,3,0,0,synthetic,5754,0,0,1,3,54.9,Moderate
+SPJ0655,SpiceJet,Instagram,2026-10-16 23:12,Good experience with the crew on today's flight.,Positive Experience,Positive,Low,2,2,0,0,synthetic,7750,0,0,1,1,3.7,Low
+SPJ0656,SpiceJet,Instagram,2026-10-14 06:00,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,Low,3,1,0,0,synthetic,1389,0,0,3,1,2.3,Low
+SPJ0657,SpiceJet,Instagram,2026-10-14 14:22,Good experience with the crew on today's flight.,Positive Experience,Positive,Medium,80,20,10,1,synthetic,991,0,0,1,78,86.9,Viral
+SPJ0658,SpiceJet,YouTube,2026-10-16 03:08,My SpiceJet flight was cancelled and I need help with the next steps.,Flight Cancellation,Negative,High,12,4,0,0,synthetic,4753,0,1,1,10,48.0,Moderate
+SPJ0659,SpiceJet,X,2026-10-07 20:38,The website is showing an error when I enter my booking details.,Booking/Check-in,Negative,Low,1,1,0,0,synthetic,595,1,0,1,1,2.5,Low
+SPJ0660,SpiceJet,Instagram,2026-10-07 09:37,My suitcase was damaged during the journey. How do I report it?,Baggage Issue,Negative,Medium,9,1,2,0,synthetic,6676,0,0,0,10,53.0,Moderate
+SPJ0661,SpiceJet,Reddit,2026-10-01 13:37,Our flight was cancelled and the queue for assistance is very long.,Flight Cancellation,Negative,Medium,81,31,7,1,synthetic,699,1,0,1,85,89.4,Viral
+SPJ0662,SpiceJet,YouTube,2026-10-18 23:36,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Low,9,2,0,0,synthetic,492,0,0,2,2,46.6,Moderate
+SPJ0663,SpiceJet,Instagram,2026-10-06 19:28,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,5,1,1,0,synthetic,4749,0,0,3,2,20.2,Low
+SPJ0664,SpiceJet,Instagram,2026-10-15 03:49,The departure time keeps changing in the app.,Flight Delay,Negative,Medium,69,31,21,1,synthetic,33369,0,1,2,52,90.6,Viral
+SPJ0665,SpiceJet,Reddit,2026-10-15 09:39,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,Medium,14,8,0,0,synthetic,639,0,1,0,8,49.7,Moderate
+SPJ0666,SpiceJet,Reddit,2026-10-15 18:34,Bhai flight ka update kab milega? Gate pe koi bata hi nahi raha.,Customer Service,Negative,Low,4,0,1,0,synthetic,565,0,0,1,2,10.9,Low
+SPJ0667,SpiceJet,YouTube,2026-10-19 03:00,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Low,7,8,1,0,synthetic,193,0,0,0,3,18.2,Low
+SPJ0668,SpiceJet,Instagram,2026-10-19 05:24,How can I get assistance for a passenger who needs extra support?,General Enquiry,Neutral,Low,2,5,2,1,synthetic,22321,0,0,2,6,74.6,High
+SPJ0669,SpiceJet,Reddit,2026-10-01 01:10,My SpiceJet flight was cancelled and I need help with the next steps.,Flight Cancellation,Negative,High,12,2,0,0,synthetic,878,0,0,2,7,49.6,Moderate
+SPJ0670,SpiceJet,Instagram,2026-10-18 15:24,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,Medium,6,1,6,1,synthetic,4863,1,1,1,10,85.4,Viral
+SPJ0671,SpiceJet,X,2026-10-05 08:49,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,71,34,9,1,synthetic,54328,0,0,3,21,91.2,Viral
+SPJ0672,SpiceJet,Instagram,2026-10-14 13:16,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Negative,Low,3,0,2,0,synthetic,362,0,1,2,2,15.2,Low
+SPJ0673,SpiceJet,Instagram,2026-10-15 03:13,How can I get assistance for a passenger who needs extra support?,General Enquiry,Neutral,Low,0,1,0,0,synthetic,1574,0,0,2,0,2.1,Low
+SPJ0674,SpiceJet,YouTube,2026-10-02 03:03,The staff helped me understand the rebooking options.,Customer Service,Negative,Low,6,2,2,0,synthetic,2008,0,0,1,7,12.2,Low
+SPJ0675,SpiceJet,YouTube,2026-10-06 22:57,Several passengers are posting that their flight was cancelled with very little notice.,Booking/Check-in,Neutral,Low,12,1,1,0,synthetic,1326,0,0,0,3,8.6,Low
+SPJ0676,SpiceJet,YouTube,2026-10-20 02:42,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,Medium,5,5,0,0,synthetic,68,0,0,0,8,16.2,Low
+SPJ0677,SpiceJet,YouTube,2026-10-03 23:25,What time does boarding usually close?,General Enquiry,Neutral,Low,3,1,1,0,synthetic,3232,0,0,2,3,10.0,Low
+SPJ0678,SpiceJet,X,2026-10-05 20:51,I am still waiting for my refund after the cancellation.,Refund,Negative,Low,49,33,15,1,synthetic,8544,0,0,1,64,91.8,Viral
+SPJ0679,SpiceJet,YouTube,2026-10-02 17:17,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,97,39,6,1,synthetic,18049,0,0,0,60,97.7,Viral
+SPJ0680,SpiceJet,YouTube,2026-10-04 12:02,My checked-in bag has not arrived at the carousel.,Baggage Issue,Negative,Medium,10,1,0,0,synthetic,33413,0,0,1,4,3.1,Low
+SPJ0681,SpiceJet,YouTube,2026-10-14 09:29,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Low,72,29,24,1,synthetic,3445,0,0,2,50,82.1,Viral
+SPJ0682,SpiceJet,Instagram,2026-10-18 16:00,My SpiceJet flight was cancelled and I need help with the next steps.,Flight Cancellation,Negative,High,5,1,0,0,synthetic,5378,0,0,1,2,8.4,Low
+SPJ0683,SpiceJet,YouTube,2026-10-13 11:48,The departure time keeps changing in the app.,Flight Delay,Negative,Medium,3,5,2,0,synthetic,2830,0,1,1,3,23.5,Low
+SPJ0684,SpiceJet,Instagram,2026-10-06 23:25,How can I check the status of my ticket refund?,Refund,Negative,Medium,74,24,8,0,synthetic,3998,0,0,2,28,57.4,Moderate
+SPJ0685,SpiceJet,Reddit,2026-10-19 00:44,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Low,5,1,1,0,synthetic,656,0,0,0,6,30.0,Moderate
+SPJ0686,SpiceJet,Instagram,2026-10-08 17:08,My suitcase was damaged during the journey. How do I report it?,Baggage Issue,Negative,High,1,6,0,0,synthetic,5394,0,1,2,2,31.5,Moderate
+SPJ0687,SpiceJet,X,2026-10-07 14:40,I am still waiting for my refund after the cancellation.,Refund,Negative,Medium,79,26,14,1,synthetic,42354,0,1,2,56,94.1,Viral
+SPJ0688,SpiceJet,YouTube,2026-10-11 14:46,What is the baggage allowance for this route?,General Enquiry,Neutral,Low,3,2,0,0,synthetic,617,0,1,1,1,42.1,Moderate
+SPJ0689,SpiceJet,X,2026-10-03 20:54,I contacted support twice and still have no resolution.,Customer Service,Negative,Medium,4,2,0,0,synthetic,55024,0,0,0,4,15.4,Low
+SPJ0690,SpiceJet,YouTube,2026-10-08 11:35,Where can I find my boarding pass?,Booking/Check-in,Neutral,Low,7,3,1,0,synthetic,4015,0,0,0,1,6.5,Low
+SPJ0691,SpiceJet,Instagram,2026-10-17 18:46,Our flight was cancelled and the queue for assistance is very long.,Flight Cancellation,Negative,Medium,6,8,1,0,synthetic,4806,0,1,3,7,53.9,Moderate
+SPJ0692,SpiceJet,X,2026-10-13 18:34,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,4,5,0,0,synthetic,178,0,0,0,4,14.5,Low
+SPJ0693,SpiceJet,Reddit,2026-10-21 18:02,Cancellation message came at the last minute. What are my options?,Flight Cancellation,Negative,High,6,2,1,0,synthetic,782,0,1,0,5,12.4,Low
+SPJ0694,SpiceJet,Reddit,2026-10-17 06:57,My checked-in bag has not arrived at the carousel.,Baggage Issue,Negative,Medium,1,4,1,0,synthetic,206,0,1,0,4,23.9,Low
+SPJ0695,SpiceJet,YouTube,2026-10-08 13:38,What time does boarding usually close?,General Enquiry,Neutral,Low,5,2,0,0,synthetic,4411,0,0,2,1,12.7,Low
+SPJ0696,SpiceJet,Reddit,2026-10-17 02:25,Where can I find my boarding pass?,Booking/Check-in,Neutral,Low,7,5,0,0,synthetic,2974,0,0,1,1,7.1,Low
+SPJ0697,SpiceJet,X,2026-10-19 04:08,Nobody is responding to my complaint about the flight.,Customer Service,Negative,Low,1,4,0,0,synthetic,19495,0,0,2,2,19.2,Low
+SPJ0698,SpiceJet,Reddit,2026-10-14 05:56,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Low,6,11,0,0,synthetic,631,0,0,2,10,47.1,Moderate
+SPJ0699,SpiceJet,Instagram,2026-10-17 00:19,The staff helped me understand the rebooking options.,Customer Service,Negative,Low,2,2,0,0,synthetic,2852,0,0,0,2,8.9,Low
+SPJ0700,SpiceJet,Reddit,2026-10-11 13:41,Can someone explain the process after a flight cancellation?,Flight Cancellation,Negative,Medium,11,3,0,1,synthetic,3252,0,0,0,6,82.9,Viral
+SPJ0701,SpiceJet,Reddit,2026-10-20 03:26,Our flight was cancelled and the queue for assistance is very long.,Flight Cancellation,Negative,High,6,5,0,1,synthetic,97,0,0,2,1,60.4,High
+SPJ0702,SpiceJet,X,2026-10-05 23:45,"My bag was delivered safely, thank you to the ground team.",Baggage Issue,Negative,High,9,0,0,0,synthetic,2186,0,1,0,5,9.4,Low
+SPJ0703,SpiceJet,Instagram,2026-10-09 21:53,The departure time keeps changing in the app.,Flight Delay,Negative,Low,9,0,1,0,synthetic,1493,0,0,1,5,40.9,Moderate
+SPJ0704,SpiceJet,YouTube,2026-10-06 07:58,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,25,14,13,1,synthetic,9172,1,1,0,26,91.6,Viral
+SPJ0705,SpiceJet,X,2026-10-03 03:03,Can someone explain the process after a flight cancellation?,Flight Cancellation,Negative,High,100,23,5,1,synthetic,4737,0,1,1,62,86.3,Viral
+SPJ0706,SpiceJet,YouTube,2026-10-13 22:27,Where can I find my boarding pass?,Booking/Check-in,Neutral,Low,9,0,0,1,synthetic,12483,0,0,2,7,78.9,High
+SPJ0707,SpiceJet,Reddit,2026-10-03 11:39,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Low,68,11,23,1,synthetic,1362,0,1,0,75,84.0,Viral
+SPJ0708,SpiceJet,YouTube,2026-10-05 17:58,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,3,2,1,0,synthetic,6503,0,0,0,2,35.2,Moderate
+SPJ0709,SpiceJet,Instagram,2026-10-17 00:39,I am still waiting for my refund after the cancellation.,Refund,Negative,Low,6,7,0,0,synthetic,67764,0,0,1,6,43.8,Moderate
+SPJ0710,SpiceJet,Reddit,2026-10-06 01:28,Please clarify the expected refund process for my booking.,Refund,Negative,Medium,95,20,20,1,synthetic,15304,0,1,0,19,82.5,Viral
+SPJ0711,SpiceJet,Instagram,2026-10-19 03:07,Several passengers are posting that their flight was cancelled with very little notice.,General Enquiry,Neutral,Low,7,5,0,0,synthetic,11702,0,0,1,2,5.6,Low
+SPJ0712,SpiceJet,Instagram,2026-10-02 00:45,The ground staff were patient and helpful today.,Customer Service,Negative,Low,16,13,2,0,synthetic,15375,0,1,0,9,55.8,Moderate
+SPJ0713,SpiceJet,Reddit,2026-10-10 14:20,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,3,3,0,0,synthetic,479,0,0,1,3,5.0,Low
+SPJ0714,SpiceJet,Reddit,2026-10-02 09:51,What time does boarding usually close?,General Enquiry,Neutral,Low,31,14,18,1,synthetic,613,0,1,3,38,97.3,Viral
+SPJ0715,SpiceJet,X,2026-10-02 06:01,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,10,2,0,0,synthetic,1237,0,0,1,2,30.7,Moderate
+SPJ0716,SpiceJet,Instagram,2026-10-17 14:38,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,10,0,0,0,synthetic,4144,0,1,0,2,13.6,Low
+SPJ0717,SpiceJet,Instagram,2026-10-02 09:37,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Low,2,2,1,0,synthetic,24212,0,0,1,1,12.0,Low
+SPJ0718,SpiceJet,X,2026-10-19 17:41,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,9,1,1,0,synthetic,1453,0,0,1,4,52.4,Moderate
+SPJ0719,SpiceJet,Instagram,2026-10-13 13:41,I contacted support twice and still have no resolution.,Customer Service,Negative,Low,4,0,3,0,synthetic,6042,0,0,1,2,46.7,Moderate
+SPJ0720,SpiceJet,Instagram,2026-10-11 03:12,What time does boarding usually close?,General Enquiry,Neutral,Low,5,1,0,0,synthetic,564,0,0,1,3,18.5,Low
+SPJ0721,SpiceJet,Instagram,2026-10-20 06:59,Please clarify the expected refund process for my booking.,Refund,Negative,High,8,6,0,0,synthetic,589,0,0,1,9,14.8,Low
+SPJ0722,SpiceJet,YouTube,2026-10-09 03:23,My refund has not arrived and customer support has not replied.,Refund,Negative,Low,4,0,0,0,synthetic,6524,0,0,0,2,16.3,Low
+SPJ0723,SpiceJet,X,2026-10-09 09:23,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Low,4,1,0,0,synthetic,1541,0,0,0,3,2.8,Low
+SPJ0724,SpiceJet,Reddit,2026-10-09 14:36,Where can I check the status of my SpiceJet flight?,General Enquiry,Neutral,Low,2,12,1,0,synthetic,295,0,0,0,10,28.6,Low
+SPJ0725,SpiceJet,Reddit,2026-10-14 15:54,The departure time keeps changing in the app.,Flight Delay,Negative,High,5,9,1,1,synthetic,27244,0,1,1,8,90.4,Viral
+SPJ0726,SpiceJet,Instagram,2026-10-18 19:01,The departure time keeps changing in the app.,Flight Delay,Negative,Medium,35,25,7,1,synthetic,7786,0,0,0,24,79.6,High
+SPJ0727,SpiceJet,Instagram,2026-10-12 09:10,Our flight was cancelled and the queue for assistance is very long.,Flight Cancellation,Negative,High,5,0,0,0,synthetic,2973,0,0,1,3,3.1,Low
+SPJ0728,SpiceJet,YouTube,2026-10-06 21:39,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,High,2,5,1,0,synthetic,1452,0,0,1,2,7.5,Low
+SPJ0729,SpiceJet,Instagram,2026-10-19 16:26,My refund has not arrived and customer support has not replied.,Refund,Negative,Low,9,0,3,1,synthetic,12566,0,1,2,7,63.8,High
+SPJ0730,SpiceJet,Instagram,2026-10-13 13:52,My refund has not arrived and customer support has not replied.,Refund,Negative,High,105,38,4,1,synthetic,2662,0,0,1,90,89.6,Viral
+SPJ0731,SpiceJet,Instagram,2026-10-18 11:31,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,Medium,80,22,5,1,synthetic,7662,0,1,1,56,85.7,Viral
+SPJ0732,SpiceJet,Instagram,2026-10-10 01:52,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,79,34,20,1,synthetic,31770,1,1,1,102,98.5,Viral
+SPJ0733,SpiceJet,YouTube,2026-10-05 04:28,The departure time keeps changing in the app.,Flight Delay,Negative,Medium,4,1,1,0,synthetic,1281,0,0,0,3,37.1,Moderate
+SPJ0734,SpiceJet,Reddit,2026-10-20 20:01,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,Medium,58,23,23,1,synthetic,66,1,1,0,67,75.0,High
+SPJ0735,SpiceJet,Instagram,2026-10-15 05:28,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,High,1,2,0,0,synthetic,1279,0,0,0,1,10.5,Low
+SPJ0736,SpiceJet,YouTube,2026-10-07 11:07,The ground staff were patient and helpful today.,Customer Service,Negative,Low,13,1,1,0,synthetic,5765,0,0,0,8,58.7,Moderate
+SPJ0737,SpiceJet,Reddit,2026-10-18 19:08,Our flight was cancelled and the queue for assistance is very long.,Flight Cancellation,Negative,High,1,1,0,0,synthetic,3737,0,1,1,0,3.2,Low
+SPJ0738,SpiceJet,Reddit,2026-10-01 04:34,My suitcase was damaged during the journey. How do I report it?,Baggage Issue,Negative,Medium,6,7,0,1,synthetic,2938,0,0,2,4,73.9,High
+SPJ0739,SpiceJet,X,2026-10-20 12:50,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,Medium,5,2,3,0,synthetic,28605,0,0,0,5,53.1,Moderate
+SPJ0740,SpiceJet,YouTube,2026-10-13 03:37,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,High,3,2,0,0,synthetic,474,0,0,1,2,4.4,Low
+SPJ0741,SpiceJet,X,2026-10-13 09:19,The departure time keeps changing in the app.,Flight Delay,Negative,Low,5,6,3,1,synthetic,52157,0,1,1,11,72.8,High
+SPJ0742,SpiceJet,Instagram,2026-10-01 06:44,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,High,4,2,0,0,synthetic,4225,1,0,2,1,9.7,Low
+SPJ0743,SpiceJet,Instagram,2026-10-04 16:39,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,3,2,1,0,synthetic,8046,0,0,0,3,3.7,Low
+SPJ0744,SpiceJet,Instagram,2026-10-16 03:11,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,5,2,1,0,synthetic,60,0,0,1,3,11.9,Low
+SPJ0745,SpiceJet,YouTube,2026-10-12 17:20,I am still waiting for my refund after the cancellation.,Refund,Negative,Low,1,3,2,0,synthetic,6846,0,0,3,3,16.9,Low
+SPJ0746,SpiceJet,Instagram,2026-10-03 16:20,My refund has not arrived and customer support has not replied.,Refund,Negative,Medium,1,1,0,0,synthetic,4362,0,0,1,1,9.7,Low
+SPJ0747,SpiceJet,Instagram,2026-10-14 23:34,My checked-in bag has not arrived at the carousel.,Baggage Issue,Negative,Medium,7,3,1,0,synthetic,44156,0,0,1,6,36.9,Moderate
+SPJ0748,SpiceJet,Reddit,2026-10-16 16:11,How can I check the status of my ticket refund?,Refund,Negative,Medium,3,9,0,0,synthetic,1030,0,0,1,10,38.0,Moderate
+SPJ0749,SpiceJet,Instagram,2026-10-06 17:20,Landed safely and the staff were courteous.,Positive Experience,Positive,Low,5,2,2,0,synthetic,824,0,1,2,2,18.6,Low
+SPJ0750,SpiceJet,Instagram,2026-10-15 11:26,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,2,4,4,1,synthetic,2333,0,0,1,5,65.1,High
+SPJ0751,SpiceJet,Instagram,2026-10-21 10:23,Cancellation message came at the last minute. What are my options?,Flight Cancellation,Negative,High,6,0,3,0,synthetic,5538,0,1,1,8,37.7,Moderate
+SPJ0752,SpiceJet,YouTube,2026-10-11 03:09,My checked-in bag has not arrived at the carousel.,Baggage Issue,Negative,Low,3,4,1,0,synthetic,3052,0,0,2,3,6.0,Low
+SPJ0753,SpiceJet,Instagram,2026-10-05 19:34,Our flight was cancelled and the queue for assistance is very long.,Flight Cancellation,Negative,High,3,1,1,0,synthetic,1316,0,0,0,2,17.0,Low
+SPJ0754,SpiceJet,Instagram,2026-10-21 04:49,How can I check the status of my ticket refund?,Refund,Negative,High,0,4,0,0,synthetic,723,0,0,1,2,27.1,Low
+SPJ0755,SpiceJet,Instagram,2026-10-20 03:19,Nobody is responding to my complaint about the flight.,Customer Service,Negative,Low,2,3,1,0,synthetic,25681,0,0,0,1,48.4,Moderate
+SPJ0756,SpiceJet,Reddit,2026-10-10 14:15,Can someone explain the process after a flight cancellation?,Flight Cancellation,Negative,Medium,72,41,24,1,synthetic,1278,0,0,4,116,83.8,Viral
+SPJ0757,SpiceJet,X,2026-10-09 22:17,The baggage belt stopped and there is no update yet.,Baggage Issue,Negative,Medium,14,4,3,0,synthetic,3621,0,0,2,5,36.4,Moderate
+SPJ0758,SpiceJet,YouTube,2026-10-18 12:17,What time does boarding usually close?,General Enquiry,Neutral,Low,4,1,2,0,synthetic,954,0,0,1,1,25.3,Low
+SPJ0759,SpiceJet,Reddit,2026-10-01 00:16,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,12,4,0,0,synthetic,5483,0,0,2,4,30.1,Moderate
+SPJ0760,SpiceJet,X,2026-10-07 13:24,I am still waiting for my refund after the cancellation.,Refund,Negative,Medium,8,10,0,1,synthetic,41617,0,1,2,2,82.7,Viral
+SPJ0761,SpiceJet,X,2026-10-12 09:49,The ground staff were patient and helpful today.,Customer Service,Negative,Low,3,4,0,0,synthetic,970,0,1,1,2,29.0,Low
+SPJ0762,SpiceJet,Reddit,2026-10-14 17:38,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,64,16,25,1,synthetic,1599,0,0,0,22,85.2,Viral
+SPJ0763,SpiceJet,X,2026-10-14 04:39,The departure time keeps changing in the app.,Flight Delay,Negative,Medium,1,3,0,0,synthetic,1113,0,0,2,3,11.9,Low
+SPJ0764,SpiceJet,X,2026-10-08 18:44,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,Medium,1,0,0,0,synthetic,51595,0,0,0,0,11.8,Low
+SPJ0765,SpiceJet,Reddit,2026-10-19 06:09,What is the baggage allowance for this route?,General Enquiry,Neutral,Low,6,2,1,0,synthetic,1465,0,0,1,0,7.9,Low
+SPJ0766,SpiceJet,YouTube,2026-10-14 15:24,Bhai flight ka update kab milega? Gate pe koi bata hi nahi raha.,Flight Delay,Negative,Medium,2,5,0,0,synthetic,1354,0,0,0,3,8.9,Low
+SPJ0767,SpiceJet,Instagram,2026-10-12 08:26,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,High,40,34,13,1,synthetic,4441,0,1,0,53,91.4,Viral
+SPJ0768,SpiceJet,Instagram,2026-10-20 17:05,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,14,9,1,1,synthetic,15014,0,0,1,17,81.9,Viral
+SPJ0769,SpiceJet,YouTube,2026-10-02 23:26,The departure time keeps changing in the app.,Flight Delay,Negative,Medium,6,0,0,0,synthetic,1420,0,0,1,4,6.2,Low
+SPJ0770,SpiceJet,YouTube,2026-10-15 21:44,Can I change the passenger name after booking?,Booking/Check-in,Neutral,Low,7,2,1,0,synthetic,16811,0,0,0,1,45.1,Moderate
+SPJ0771,SpiceJet,YouTube,2026-10-20 11:06,Cancellation message came at the last minute. What are my options?,Flight Cancellation,Negative,Medium,9,0,0,1,synthetic,1242,0,1,2,7,61.0,High
+SPJ0772,SpiceJet,YouTube,2026-10-14 21:33,Where can I find my boarding pass?,Booking/Check-in,Neutral,Low,6,0,4,1,synthetic,811,0,0,0,5,75.2,High
+SPJ0773,SpiceJet,YouTube,2026-10-12 20:56,I cannot complete web check-in for my SpiceJet flight.,Booking/Check-in,Neutral,Low,0,3,0,0,synthetic,14005,0,0,0,1,28.9,Low
+SPJ0774,SpiceJet,X,2026-10-08 15:39,Good experience with the crew on today's flight.,Positive Experience,Positive,Medium,69,31,3,1,synthetic,4949,0,1,2,30,93.1,Viral
+SPJ0775,SpiceJet,Instagram,2026-10-06 16:51,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,7,0,0,0,synthetic,22486,0,0,0,2,39.4,Moderate
+SPJ0776,SpiceJet,Instagram,2026-10-12 11:07,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Low,0,6,1,0,synthetic,10664,0,0,1,1,25.9,Low
+SPJ0777,SpiceJet,Reddit,2026-10-19 21:01,Can I change the passenger name after booking?,Booking/Check-in,Neutral,Low,6,9,3,1,synthetic,272,0,0,0,9,65.3,High
+SPJ0778,SpiceJet,X,2026-10-10 16:57,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,4,0,0,1,synthetic,3839,0,1,0,1,79.3,High
+SPJ0779,SpiceJet,X,2026-10-03 12:56,The ground team helped my family with boarding. Thank you!,Positive Experience,Positive,Low,8,8,0,0,synthetic,4261,0,0,0,5,56.8,Moderate
+SPJ0780,SpiceJet,X,2026-10-11 03:44,Smooth journey and the cabin crew were very helpful.,Positive Experience,Positive,Low,5,4,1,0,synthetic,2935,0,0,0,4,28.4,Low
+SPJ0781,SpiceJet,X,2026-10-03 01:07,Cancellation message came at the last minute. What are my options?,Flight Cancellation,Negative,High,4,5,0,0,synthetic,6049,0,0,0,4,29.9,Low
+SPJ0782,SpiceJet,Instagram,2026-10-20 15:47,What is the baggage allowance for this route?,General Enquiry,Neutral,Medium,12,0,0,1,synthetic,3037,0,1,0,10,71.7,High
+SPJ0783,SpiceJet,YouTube,2026-10-12 05:38,My refund has not arrived and customer support has not replied.,Refund,Negative,High,1,2,1,1,synthetic,3972,0,0,3,2,67.5,High
+SPJ0784,SpiceJet,Instagram,2026-10-05 11:47,Can I change the passenger name after booking?,Booking/Check-in,Neutral,Low,5,3,1,0,synthetic,12615,0,0,0,2,57.0,Moderate
+SPJ0785,SpiceJet,Reddit,2026-10-14 02:56,How can I get assistance for a passenger who needs extra support?,General Enquiry,Neutral,Low,6,3,3,1,synthetic,11213,0,0,1,3,77.8,High
+SPJ0786,SpiceJet,X,2026-10-12 07:02,My suitcase was damaged during the journey. How do I report it?,Baggage Issue,Negative,Low,0,0,3,0,synthetic,1336,0,1,0,1,5.9,Low
+SPJ0787,SpiceJet,Instagram,2026-10-11 17:31,Good experience with the crew on today's flight.,Positive Experience,Positive,Medium,12,1,0,1,synthetic,5138,1,1,0,4,66.5,High
+SPJ0788,SpiceJet,YouTube,2026-10-13 10:21,My checked-in bag has not arrived at the carousel.,Baggage Issue,Negative,Medium,6,0,2,0,synthetic,1674,0,0,0,5,28.5,Low
+SPJ0789,SpiceJet,Instagram,2026-10-20 12:12,Good experience with the crew on today's flight.,Positive Experience,Positive,Low,11,0,1,0,synthetic,489,0,1,1,6,8.4,Low
+SPJ0790,SpiceJet,Instagram,2026-10-18 23:25,The website is showing an error when I enter my booking details.,Booking/Check-in,Neutral,Low,3,5,2,0,synthetic,11555,0,0,0,3,26.8,Low
+SPJ0791,SpiceJet,Instagram,2026-10-06 12:27,"Wow, only three hours late. Truly an on-time champion 🙃",Flight Cancellation,Negative,Medium,6,2,1,0,synthetic,6899,0,0,2,1,26.4,Low
+SPJ0792,SpiceJet,Instagram,2026-10-06 00:50,"My bag was delivered safely, thank you to the ground team.",Baggage Issue,Positive,Low,3,2,7,0,synthetic,6498,0,0,0,7,38.1,Moderate
+SPJ0793,SpiceJet,X,2026-10-21 19:04,My checked-in bag has not arrived at the carousel.,Baggage Issue,Negative,High,16,4,3,1,synthetic,7653,0,1,1,19,69.1,High
+SPJ0794,SpiceJet,YouTube,2026-10-14 13:01,Two-hour delay and nobody at the gate is explaining what is happening.,Flight Delay,Negative,High,3,7,0,0,synthetic,6640,0,0,0,4,54.7,Moderate
+SPJ0795,SpiceJet,X,2026-10-01 09:45,The departure time keeps changing in the app.,Flight Delay,Negative,High,2,2,1,0,synthetic,15067,0,0,0,1,13.3,Low
+SPJ0796,SpiceJet,Reddit,2026-10-12 02:54,My suitcase was damaged during the journey. How do I report it?,Baggage Issue,Negative,Low,1,5,9,0,synthetic,3944,0,1,2,6,56.4,Moderate
+SPJ0797,SpiceJet,Instagram,2026-10-03 11:44,My SpiceJet flight is delayed again and there is no clear update.,Flight Delay,Negative,Medium,1,2,3,1,synthetic,5596,0,1,3,4,66.0,High
+SPJ0798,SpiceJet,Instagram,2026-10-01 15:01,"Flight is late, but the ground staff finally gave us an update.",Flight Delay,Negative,Medium,0,1,1,0,synthetic,5124,0,0,0,0,18.8,Low
+SPJ0799,SpiceJet,X,2026-10-04 21:34,Nobody is responding to my complaint about the flight.,Customer Service,Negative,Low,5,4,4,0,synthetic,2326,0,0,0,2,28.7,Low
+SPJ0800,SpiceJet,Instagram,2026-10-06 08:19,Nobody is responding to my complaint about the flight.,Customer Service,Negative,Low,16,5,0,0,synthetic,2024,0,0,1,17,40.4,Moderate
