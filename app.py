@@ -75,8 +75,21 @@ DATASET_FILE = "SpiceJet_Synthetic_Social_Listening_Dataset_v2.csv"
 DATASET_V1_CSV = "SpiceJet_Synthetic_Social_Listening_Dataset.csv"
 DATASET_V1_XLSX = "SpiceJet_Synthetic_Social_Listening_Dataset.xlsx"
 DATA_DIR = "data"
-CACHE_FILE = os.path.join(DATA_DIR, "llm_cache.json")
-AUDIT_LOG_FILE = os.path.join(DATA_DIR, "audit_log.jsonl")
+os.makedirs(DATA_DIR, exist_ok=True)
+if not os.path.exists(os.path.join(DATA_DIR, "llm_cache.json")) and os.path.exists("llm_cache.json"):
+    import shutil as _shutil
+    try:
+        _shutil.copy2("llm_cache.json", os.path.join(DATA_DIR, "llm_cache.json"))
+    except Exception:
+        pass
+if not os.path.exists(os.path.join(DATA_DIR, "audit_log.jsonl")) and os.path.exists("audit_log.jsonl"):
+    import shutil as _shutil
+    try:
+        _shutil.copy2("audit_log.jsonl", os.path.join(DATA_DIR, "audit_log.jsonl"))
+    except Exception:
+        pass
+CACHE_FILE = os.path.join(DATA_DIR, "llm_cache.json") if os.path.exists(os.path.join(DATA_DIR, "llm_cache.json")) or not os.path.exists("llm_cache.json") else "llm_cache.json"
+AUDIT_LOG_FILE = os.path.join(DATA_DIR, "audit_log.jsonl") if os.path.exists(os.path.join(DATA_DIR, "audit_log.jsonl")) or not os.path.exists("audit_log.jsonl") else "audit_log.jsonl"
 CREDENTIALS_FILE = "credentials.json"
 CHALLENGE_SET_FILE = "hinglish_sarcasm_challenge_set.csv"
 
@@ -2749,6 +2762,9 @@ def log_audit_action(entry: Dict[str, Any]):
     st.session_state.audit_entries.append(entry)
 
 
+append_audit_log = log_audit_action
+
+
 def load_audit_log() -> List[Dict[str, Any]]:
     entries = []
     if os.path.exists(AUDIT_LOG_FILE):
@@ -3142,8 +3158,7 @@ def main():
 
     # Auto-load cached classifications on initial startup so Review Queue is immediately populated
     if "analysis_done" not in st.session_state or not st.session_state.classifications:
-        disk_cache = load_llm_cache()
-        if disk_cache:
+        if True:
             init_window_df = raw_df[raw_df["timestamp_dt"] <= pd.Timestamp(clock_cutoff)].copy()
             init_unique_items = []
             seen_init = set()
@@ -5162,16 +5177,27 @@ def main():
             )
             st.write(f"• **Reply Channel:** {nm_draft.get('reply_channel')} | **Citations:** `{', '.join(nm_draft.get('citations', []))}`")
             st.write(f"• **Recommended Internal Action:** {nm_draft.get('recommended_internal_action')}")
-            st.write(f"• **Escalation Team:** `{nm_draft.get('escalate_to')}`")
 
-            rev_c1, rev_c2 = st.columns([1, 2])
+            default_esc_team = nm_draft.get("escalate_to", "Customer Support")
+            if default_esc_team not in APPROVED_ESCALATION_TEAMS:
+                default_esc_team = "Customer Support"
+            esc_default_idx = APPROVED_ESCALATION_TEAMS.index(default_esc_team)
+
+            rev_c1, rev_c2, rev_c3 = st.columns([1, 1.2, 1.8])
             with rev_c1:
                 nm_reviewer_name = st.text_input("Reviewer Name:", value="S. Sharma", key=f"nm_rev_name_{nm_id}")
             with rev_c2:
+                nm_selected_esc_team = st.selectbox(
+                    "Escalation Team:",
+                    options=APPROVED_ESCALATION_TEAMS,
+                    index=esc_default_idx,
+                    key=f"nm_esc_team_{nm_id}"
+                )
+            with rev_c3:
                 nm_notes = st.text_input("Reviewer Notes / Reason:", key=f"nm_notes_{nm_id}")
             chk_b1, chk_b2, chk_b3 = st.columns(3)
 
-            def record_live_decision(decision_type: str, status_badge: str):
+            def record_live_decision(decision_type: str, status_badge: str, esc_target: str = "None"):
                 orig_draft_txt = nm_draft.get("draft_reply", "")
                 final_txt = st.session_state.get(nm_edit_key, orig_draft_txt)
                 was_edited = (final_txt.strip() != orig_draft_txt.strip())
@@ -5199,15 +5225,17 @@ def main():
                     "was_edited": was_edited,
                     "decision": decision_type,
                     "notes": nm_notes,
-                    "escalate_to": nm_draft.get("escalate_to", "None"),
+                    "escalate_to": esc_target,
                     "guidance_hash": guidance_hash,
                     "model_used": model_name
                 }
-                append_audit_log(log_entry)
+                log_audit_action(log_entry)
                 st.session_state.review_decisions[nm_id] = {
                     "status": status_badge,
                     "reviewer": nm_reviewer_name.strip(),
-                    "timestamp": log_entry["timestamp"]
+                    "timestamp": log_entry["timestamp"],
+                    "escalate_to": esc_target,
+                    "decision": decision_type
                 }
 
             with chk_b1:
@@ -5220,22 +5248,31 @@ def main():
                         is_ed = (curr_d.strip() != orig_d.strip())
                         dec_label = "Edited & Approved" if is_ed else "Approved"
                         badge_label = "✏️ Edited & Approved" if is_ed else "✅ Approved"
-                        record_live_decision(dec_label, badge_label)
-                        st.success(f"Decision '{dec_label}' recorded to Audit Log (Simulated — nothing published externally).")
+                        record_live_decision(dec_label, badge_label, nm_draft.get("escalate_to", "None"))
+                        st.success(f"✅ Decision '{dec_label}' recorded to Audit Log (Simulated — nothing published externally).")
             with chk_b2:
                 if st.button("🚨 Escalate to Team", key=f"nm_esc_{nm_id}", use_container_width=True):
                     if not nm_reviewer_name.strip():
                         st.error("Please enter Reviewer Name before recording a decision.")
                     else:
-                        record_live_decision("Escalated", "⬆️ Escalated")
-                        st.warning(f"Escalated to {nm_draft.get('escalate_to')} and logged in Audit Log.")
+                        record_live_decision("Escalated", "⬆️ Escalated", nm_selected_esc_team)
+                        st.warning(f"🚨 Escalated to **{nm_selected_esc_team}** by **{nm_reviewer_name.strip()}** and recorded in the Audit Log!")
             with chk_b3:
                 if st.button("❌ Reject Draft", key=f"nm_rej_{nm_id}", use_container_width=True):
                     if not nm_reviewer_name.strip():
                         st.error("Please enter Reviewer Name before recording a decision.")
                     else:
-                        record_live_decision("Rejected", "⛔ Rejected")
-                        st.info("Draft rejected and logged in Audit Log.")
+                        record_live_decision("Rejected", "⛔ Rejected", "None")
+                        st.info("⛔ Draft rejected and recorded in the Audit Log.")
+
+            if nm_id in st.session_state.review_decisions:
+                dec_info = st.session_state.review_decisions[nm_id]
+                st.info(
+                    f"**Current Recorded Disposition for `{nm_id}`:** {dec_info['status']} | "
+                    f"**Reviewer:** `{dec_info['reviewer']}` | "
+                    f"**Escalated To:** `{dec_info.get('escalate_to', 'None')}` | "
+                    f"**Time:** `{dec_info['timestamp']}` *(View in Tab 5: Audit Log)*"
+                )
 
     # ==========================================
     # FOOTER ON EVERY PAGE
